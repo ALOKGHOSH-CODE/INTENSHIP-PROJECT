@@ -1,0 +1,1201 @@
+temperature_c,smoke_level,co_ppm,gas_level,sound_db,crowd_count,motion_index,flame_detected,event_duration_min,incident_type,severity,severity_label
+28.1,22.5,29.2,84.84,67.82,30,33.72,0,4.52,Unusual Heat,1,Normal Alert
+26.58,0.0,2.95,23.93,65.76,27,11.59,0,1.3,Safe / Normal Activity,0,Safe
+39.43,37.81,2.37,40.36,79.48,48,55.9,0,7.22,Unusual Heat,1,Normal Alert
+33.2,51.5,25.54,88.17,55.58,20,91.67,0,1.63,Minor Smoke,1,Normal Alert
+29.1,14.98,3.4,13.24,51.74,11,83.63,0,3.83,Safe / Normal Activity,0,Safe
+43.62,60.09,15.72,5.71,63.2,7,30.0,1,11.54,Heavy Smoke,2,High-Priority Emergency
+34.69,61.23,14.88,63.43,60.49,46,75.03,0,6.14,Possible Gas Issue,1,Normal Alert
+31.15,17.79,3.71,48.82,78.91,23,59.58,0,6.28,Possible Gas Issue,1,Normal Alert
+34.76,28.77,1.99,43.89,54.1,35,39.36,0,0.2,Safe / Normal Activity,0,Safe
+26.14,0.41,9.87,41.72,50.64,26,23.49,0,3.66,Safe / Normal Activity,0,Safe
+26.81,33.4,4.07,34.99,62.27,32,29.06,0,2.33,Safe / Normal Activity,0,Safe
+39.8,77.9,33.45,86.84,115.67,82,67.5,0,5.3,Severe Heat Emergency,2,High-Priority Emergency
+30.8,67.16,14.55,42.42,91.9,0,14.69,0,4.95,Minor Smoke,1,Normal Alert
+36.75,14.12,11.84,89.07,86.36,40,49.34,0,0.2,Minor Smoke,1,Normal Alert
+31.23,0.24,3.35,6.95,48.45,23,0.0,0,3.63,Safe / Normal Activity,0,Safe
+25.74,0.0,2.01,38.03,25.0,18,14.4,0,1.49,Safe / Normal Activity,0,Safe
+29.02,21.65,13.34,19.36,65.89,4,61.81,0,1.66,Safe / Normal Activity,0,Safe
+26.89,0.37,6.92,34.58,64.81,3,35.52,0,0.2,Safe / Normal Activity,0,Safe
+27.48,53.78,13.89,55.65,101.89,45,73.47,0,4.29,Crowd Disturbance,1,Normal Alert
+29.41,45.7,15.07,35.94,58.51,79,66.19,0,7.0,Crowd Disturbance,1,Normal Alert
+33.23,48.12,2.96,54.41,102.69,45,50.72,0,3.82,Possible Gas Issue,1,Normal Alert
+25.73,12.22,9.67,0.0,72.21,17,45.54,0,4.49,Safe / Normal Activity,0,Safe
+62.7,84.15,5.31,92.73,95.29,12,74.51,0,9.08,Heavy Smoke,2,High-Priority Emergency
+52.2,94.95,40.94,0.32,82.29,45,39.96,1,11.3,Critical Gas Leak,2,High-Priority Emergency
+27.39,44.06,5.59,32.89,96.16,27,69.17,0,9.27,Possible Gas Issue,1,Normal Alert
+26.09,21.76,0.36,37.37,56.79,20,28.17,0,3.54,Safe / Normal Activity,0,Safe
+28.28,22.52,5.96,28.67,55.55,49,6.64,0,4.55,Safe / Normal Activity,0,Safe
+22.74,38.29,9.98,34.62,61.36,19,33.81,0,4.6,Safe / Normal Activity,0,Safe
+27.91,6.89,9.3,33.97,69.51,31,32.58,0,1.2,Safe / Normal Activity,0,Safe
+23.55,42.27,11.42,37.76,29.67,15,83.66,0,5.67,Minor Smoke,1,Normal Alert
+25.27,63.9,10.99,53.09,108.89,64,52.26,0,4.02,Possible Gas Issue,1,Normal Alert
+47.84,55.7,44.07,69.14,129.39,51,100.0,0,10.38,Severe Heat Emergency,2,High-Priority Emergency
+23.38,7.46,7.84,34.85,61.52,7,10.79,0,0.2,Safe / Normal Activity,0,Safe
+27.55,27.25,5.95,0.0,58.52,20,79.92,0,1.91,Safe / Normal Activity,0,Safe
+35.53,20.5,8.25,23.49,65.29,31,21.81,0,0.44,Safe / Normal Activity,0,Safe
+28.64,17.79,3.53,21.71,52.91,9,30.93,0,2.98,Safe / Normal Activity,0,Safe
+21.25,23.12,1.27,14.64,52.88,38,44.61,0,3.25,Safe / Normal Activity,0,Safe
+16.46,15.57,13.99,23.72,61.88,29,55.91,0,0.2,Safe / Normal Activity,0,Safe
+28.05,8.85,11.25,17.9,35.85,7,0.0,0,2.22,Safe / Normal Activity,0,Safe
+32.03,57.42,20.39,43.42,41.98,48,71.22,0,7.16,Crowd Disturbance,1,Normal Alert
+37.04,6.41,9.0,0.06,48.91,40,32.78,0,2.86,Safe / Normal Activity,0,Safe
+34.27,62.55,10.34,9.6,61.95,47,67.7,0,3.06,Possible Gas Issue,1,Normal Alert
+30.93,31.42,2.37,33.8,63.07,51,76.8,0,3.86,Possible Gas Issue,1,Normal Alert
+22.92,4.53,2.24,13.75,45.87,24,52.59,0,2.54,Safe / Normal Activity,0,Safe
+33.46,44.15,11.91,16.47,55.06,38,81.63,0,5.63,Minor Smoke,1,Normal Alert
+43.33,35.25,15.85,32.24,72.21,8,7.42,0,2.44,Crowd Disturbance,1,Normal Alert
+20.07,1.9,5.3,12.52,65.91,27,44.42,0,4.87,Safe / Normal Activity,0,Safe
+21.66,15.45,10.53,38.44,42.52,18,65.16,0,2.79,Safe / Normal Activity,0,Safe
+33.48,31.09,14.02,41.7,73.36,38,44.08,0,11.79,Unusual Heat,1,Normal Alert
+18.12,19.24,2.96,29.51,61.61,31,61.51,0,4.2,Safe / Normal Activity,0,Safe
+15.28,31.9,7.5,36.01,45.14,12,40.92,0,2.92,Safe / Normal Activity,0,Safe
+32.42,0.0,9.9,22.11,58.35,4,48.06,0,1.81,Safe / Normal Activity,0,Safe
+39.54,11.14,12.37,44.5,91.54,34,43.73,0,7.85,Possible Gas Issue,1,Normal Alert
+32.3,33.74,1.03,55.16,47.6,51,61.83,0,2.16,Crowd Disturbance,1,Normal Alert
+34.28,70.37,20.34,32.38,77.36,37,65.2,0,4.59,Crowd Disturbance,1,Normal Alert
+35.95,46.1,10.41,13.08,88.83,44,43.03,1,1.2,Possible Gas Issue,1,Normal Alert
+21.87,10.62,10.91,13.69,69.32,16,42.96,0,3.81,Safe / Normal Activity,0,Safe
+24.33,0.27,0.47,15.09,44.76,27,28.68,0,0.2,Safe / Normal Activity,0,Safe
+28.02,4.72,4.03,23.84,30.77,25,76.06,0,2.89,Safe / Normal Activity,0,Safe
+32.12,14.36,3.68,0.0,69.33,21,17.75,0,1.62,Safe / Normal Activity,0,Safe
+31.3,48.91,2.63,68.99,53.03,25,100.0,1,5.03,Crowd Disturbance,1,Normal Alert
+24.35,16.73,6.15,20.82,60.6,19,9.16,0,3.87,Safe / Normal Activity,0,Safe
+20.16,14.1,2.72,23.45,55.95,40,48.13,0,3.51,Safe / Normal Activity,0,Safe
+29.58,27.61,14.2,36.67,87.39,23,45.38,0,3.44,Possible Gas Issue,1,Normal Alert
+42.69,49.32,23.97,94.62,58.54,38,33.12,0,3.29,Crowd Disturbance,1,Normal Alert
+21.74,14.56,1.13,32.95,49.07,56,28.97,0,0.56,Safe / Normal Activity,0,Safe
+35.53,27.2,7.19,4.49,63.74,9,67.25,0,2.64,Safe / Normal Activity,0,Safe
+15.0,6.17,8.75,37.77,75.42,3,44.03,0,0.2,Safe / Normal Activity,0,Safe
+26.96,18.74,4.8,0.0,56.77,18,35.04,0,1.84,Safe / Normal Activity,0,Safe
+26.8,20.42,4.78,16.67,62.2,0,47.54,0,2.56,Safe / Normal Activity,0,Safe
+31.8,0.0,0.0,25.56,60.91,24,28.76,0,3.9,Safe / Normal Activity,0,Safe
+29.42,13.39,0.0,32.0,76.88,30,20.41,0,3.79,Safe / Normal Activity,0,Safe
+45.91,22.23,10.41,62.69,74.86,17,68.12,0,5.01,Minor Smoke,1,Normal Alert
+28.1,13.41,11.91,10.29,53.36,22,55.58,0,0.53,Safe / Normal Activity,0,Safe
+16.81,16.33,1.53,17.0,69.6,14,42.63,0,3.51,Safe / Normal Activity,0,Safe
+29.38,9.08,5.33,35.57,66.11,5,51.11,0,4.62,Safe / Normal Activity,0,Safe
+32.12,18.9,6.63,19.28,69.82,18,42.71,0,1.66,Safe / Normal Activity,0,Safe
+30.69,16.5,4.55,8.6,84.95,70,90.36,0,6.54,Minor Smoke,1,Normal Alert
+24.72,17.01,0.0,25.47,47.17,24,6.78,0,4.04,Safe / Normal Activity,0,Safe
+29.52,17.54,0.0,41.41,65.28,9,68.97,0,2.22,Unusual Heat,1,Normal Alert
+31.12,57.28,16.22,44.27,83.29,16,59.71,0,3.67,Minor Smoke,1,Normal Alert
+23.1,21.1,8.21,0.0,76.47,0,25.68,0,2.02,Safe / Normal Activity,0,Safe
+24.74,18.31,19.19,6.65,90.93,36,32.77,0,2.36,Possible Gas Issue,1,Normal Alert
+31.33,23.32,0.0,16.75,49.78,38,11.0,0,2.45,Safe / Normal Activity,0,Safe
+21.19,9.23,2.79,5.43,62.23,7,0.0,0,0.2,Safe / Normal Activity,0,Safe
+23.24,6.91,2.52,48.01,61.73,25,2.47,0,2.82,Safe / Normal Activity,0,Safe
+27.83,54.35,3.58,40.99,65.21,40,44.91,0,4.23,Minor Smoke,1,Normal Alert
+29.43,18.38,5.65,16.4,71.36,19,31.87,0,5.04,Safe / Normal Activity,0,Safe
+20.3,23.7,0.0,24.82,81.48,28,41.41,0,2.55,Safe / Normal Activity,0,Safe
+25.74,8.14,4.84,24.58,51.03,12,10.8,0,3.32,Safe / Normal Activity,0,Safe
+28.16,25.65,6.35,27.1,64.95,21,27.38,0,1.82,Safe / Normal Activity,0,Safe
+30.34,45.81,13.76,17.5,90.84,35,34.56,0,6.3,Crowd Disturbance,1,Normal Alert
+20.68,33.77,8.64,21.87,81.67,24,37.44,0,3.37,Safe / Normal Activity,0,Safe
+29.38,16.15,2.84,23.69,60.09,6,8.56,0,0.2,Safe / Normal Activity,0,Safe
+28.03,11.22,11.23,15.58,69.57,17,40.27,0,1.81,Safe / Normal Activity,0,Safe
+41.98,20.11,14.06,66.38,83.9,71,42.2,0,2.41,Minor Smoke,1,Normal Alert
+29.49,17.02,1.51,31.97,45.08,36,95.15,0,2.58,Safe / Normal Activity,0,Safe
+29.92,11.07,0.0,14.16,46.79,5,72.45,0,3.07,Safe / Normal Activity,0,Safe
+25.45,14.27,9.86,21.58,67.9,20,31.16,0,0.2,Safe / Normal Activity,0,Safe
+46.12,65.19,8.28,71.14,88.97,0,56.7,1,8.54,Critical Gas Leak,2,High-Priority Emergency
+36.31,67.33,38.29,91.43,86.28,38,62.41,0,7.92,Critical Gas Leak,2,High-Priority Emergency
+35.92,52.74,12.66,63.48,87.06,23,19.22,0,5.42,Possible Gas Issue,1,Normal Alert
+18.43,8.86,9.09,18.36,54.34,39,17.05,0,2.82,Safe / Normal Activity,0,Safe
+53.3,74.42,36.85,76.96,96.81,43,76.25,1,7.99,Severe Heat Emergency,2,High-Priority Emergency
+38.89,38.8,6.34,48.42,73.58,40,100.0,0,5.81,Unusual Heat,1,Normal Alert
+42.48,39.76,28.36,39.06,78.86,23,51.27,0,6.83,Minor Smoke,1,Normal Alert
+33.3,15.05,4.67,57.15,66.13,13,24.11,0,3.9,Safe / Normal Activity,0,Safe
+25.18,17.27,5.75,31.51,49.99,9,42.49,0,3.0,Safe / Normal Activity,0,Safe
+22.95,22.77,3.02,15.22,48.73,38,50.67,0,4.37,Safe / Normal Activity,0,Safe
+79.94,28.11,15.4,56.6,72.69,24,69.01,1,8.37,Severe Heat Emergency,2,High-Priority Emergency
+27.26,20.81,8.03,29.84,56.15,47,42.69,0,1.0,Safe / Normal Activity,0,Safe
+18.3,16.17,5.51,15.91,87.14,29,52.52,0,1.0,Safe / Normal Activity,0,Safe
+27.18,17.73,0.0,19.66,61.18,19,21.73,0,2.23,Safe / Normal Activity,0,Safe
+27.45,22.05,10.32,18.17,55.07,27,50.22,0,3.69,Safe / Normal Activity,0,Safe
+31.9,28.92,13.11,10.74,61.18,22,36.04,0,0.27,Safe / Normal Activity,0,Safe
+35.65,24.17,12.6,30.33,57.51,41,62.32,0,10.05,Possible Gas Issue,1,Normal Alert
+38.4,18.6,2.99,80.24,60.15,18,58.14,0,2.63,Crowd Disturbance,1,Normal Alert
+32.87,60.13,6.36,17.73,88.14,46,45.35,0,3.01,Possible Gas Issue,1,Normal Alert
+32.83,5.63,5.66,30.78,30.04,34,14.35,0,2.87,Safe / Normal Activity,0,Safe
+42.59,47.92,0.0,30.52,76.07,33,69.51,0,6.26,Minor Smoke,1,Normal Alert
+25.93,0.0,4.18,27.41,46.82,30,56.17,0,0.2,Safe / Normal Activity,0,Safe
+26.05,71.95,8.17,5.33,92.53,37,83.31,0,5.9,Minor Smoke,1,Normal Alert
+30.49,38.77,9.88,1.46,66.81,36,62.05,0,4.25,Safe / Normal Activity,0,Safe
+31.64,41.73,3.0,15.4,57.02,16,20.2,0,1.85,Safe / Normal Activity,0,Safe
+28.85,11.07,13.74,22.17,77.78,25,54.53,0,4.55,Safe / Normal Activity,0,Safe
+27.28,20.96,7.47,18.25,66.26,49,32.59,0,4.39,Safe / Normal Activity,0,Safe
+32.7,16.12,0.0,28.72,32.15,40,41.39,0,1.15,Safe / Normal Activity,0,Safe
+19.24,18.61,5.87,15.61,62.1,55,54.69,0,3.77,Safe / Normal Activity,0,Safe
+34.4,14.1,0.0,19.55,71.55,10,34.47,0,4.75,Safe / Normal Activity,0,Safe
+30.75,22.52,8.49,21.52,63.57,8,0.0,0,2.99,Safe / Normal Activity,0,Safe
+33.05,31.71,12.28,9.03,56.42,28,88.64,0,4.18,Safe / Normal Activity,0,Safe
+44.73,45.45,35.26,44.48,83.71,46,100.0,0,0.2,Critical Gas Leak,2,High-Priority Emergency
+29.52,9.01,6.17,20.87,57.44,31,7.34,0,3.53,Safe / Normal Activity,0,Safe
+23.93,0.0,8.67,36.6,60.42,0,52.12,0,2.96,Safe / Normal Activity,0,Safe
+22.56,4.4,4.23,19.62,52.63,29,29.08,0,2.92,Safe / Normal Activity,0,Safe
+23.51,7.34,0.0,25.78,56.39,0,27.29,0,4.86,Safe / Normal Activity,0,Safe
+30.27,33.73,39.43,105.92,74.59,34,87.32,0,1.34,Heavy Smoke,2,High-Priority Emergency
+34.75,11.64,6.4,36.74,88.39,15,37.66,0,0.22,Safe / Normal Activity,0,Safe
+42.19,19.67,12.72,41.91,59.63,19,65.08,1,4.49,Crowd Disturbance,1,Normal Alert
+27.35,21.71,2.11,31.62,71.65,53,30.48,0,3.65,Safe / Normal Activity,0,Safe
+31.1,10.65,4.39,29.03,50.24,17,39.79,0,1.59,Safe / Normal Activity,0,Safe
+17.79,0.0,0.96,4.93,58.99,8,23.94,0,1.84,Safe / Normal Activity,0,Safe
+63.55,77.9,25.21,60.47,80.2,57,86.68,0,7.42,Critical Gas Leak,2,High-Priority Emergency
+28.06,23.62,4.88,45.61,49.54,25,37.28,0,2.33,Safe / Normal Activity,0,Safe
+27.54,24.48,11.51,21.97,71.6,14,53.32,0,4.14,Safe / Normal Activity,0,Safe
+38.05,14.78,0.0,14.88,77.01,29,42.98,0,3.23,Safe / Normal Activity,0,Safe
+33.09,25.19,12.09,26.66,72.77,18,25.97,0,2.82,Safe / Normal Activity,0,Safe
+31.02,17.24,3.65,22.14,79.67,29,3.77,0,5.17,Safe / Normal Activity,0,Safe
+25.93,0.0,13.57,30.87,60.09,18,59.65,0,4.22,Safe / Normal Activity,0,Safe
+29.71,18.45,6.58,19.73,74.59,12,5.56,0,3.45,Safe / Normal Activity,0,Safe
+38.36,45.34,9.76,63.54,73.32,28,52.14,0,0.64,Crowd Disturbance,1,Normal Alert
+54.5,28.74,23.59,61.16,50.47,58,67.4,0,9.99,Heavy Smoke,2,High-Priority Emergency
+34.45,19.59,6.18,39.27,82.87,36,19.17,0,3.16,Safe / Normal Activity,0,Safe
+17.95,20.69,15.09,30.32,80.15,24,36.54,0,1.28,Safe / Normal Activity,0,Safe
+22.18,28.66,11.49,9.12,73.58,21,44.8,0,3.99,Safe / Normal Activity,0,Safe
+35.58,63.38,14.17,60.11,61.5,76,69.34,0,0.94,Possible Gas Issue,1,Normal Alert
+22.89,28.38,7.15,0.0,74.5,15,66.23,0,2.81,Safe / Normal Activity,0,Safe
+43.25,21.85,5.05,42.87,86.41,13,22.3,0,3.35,Unusual Heat,1,Normal Alert
+22.0,25.78,11.95,66.54,62.43,67,43.94,0,8.49,Unusual Heat,1,Normal Alert
+36.48,28.06,10.91,75.41,95.99,22,58.07,0,2.43,Unusual Heat,1,Normal Alert
+27.03,27.4,10.83,17.72,58.22,30,26.3,0,2.37,Safe / Normal Activity,0,Safe
+38.34,43.91,43.81,68.09,117.53,37,80.82,0,3.92,Heavy Smoke,2,High-Priority Emergency
+17.51,28.87,2.69,21.73,53.38,25,18.99,0,3.17,Safe / Normal Activity,0,Safe
+21.96,9.0,4.61,3.43,55.51,23,30.01,0,2.47,Safe / Normal Activity,0,Safe
+23.72,22.91,11.74,15.96,67.31,19,45.31,0,3.26,Safe / Normal Activity,0,Safe
+18.13,20.54,10.93,19.12,73.94,14,8.29,0,0.2,Safe / Normal Activity,0,Safe
+33.32,61.16,0.0,20.13,58.52,36,50.95,0,7.09,Crowd Disturbance,1,Normal Alert
+36.02,45.08,5.97,65.0,57.32,52,85.1,0,4.38,Crowd Disturbance,1,Normal Alert
+29.0,0.0,7.21,20.53,60.34,30,36.5,0,2.29,Safe / Normal Activity,0,Safe
+49.74,66.41,27.1,97.98,68.45,53,100.0,1,7.87,Fire Emergency,2,High-Priority Emergency
+25.15,6.95,5.32,45.94,44.56,8,11.96,0,1.81,Safe / Normal Activity,0,Safe
+26.87,11.97,2.22,18.94,92.96,39,20.94,0,1.25,Safe / Normal Activity,0,Safe
+18.12,26.2,10.64,35.6,54.89,20,53.0,0,1.91,Safe / Normal Activity,0,Safe
+31.19,66.39,39.03,42.06,99.5,57,90.0,1,5.08,Critical Gas Leak,2,High-Priority Emergency
+18.92,10.66,9.56,14.95,51.98,0,73.05,0,3.65,Safe / Normal Activity,0,Safe
+31.84,21.77,5.02,19.87,55.44,54,49.12,0,3.2,Safe / Normal Activity,0,Safe
+21.95,31.05,3.36,28.51,74.86,27,39.89,0,2.42,Safe / Normal Activity,0,Safe
+42.66,54.56,44.23,69.29,73.86,37,97.01,0,5.47,Severe Heat Emergency,2,High-Priority Emergency
+46.17,76.04,16.63,65.51,105.46,69,55.36,0,7.65,Heavy Smoke,2,High-Priority Emergency
+47.08,3.52,13.95,18.1,64.49,30,49.75,0,4.82,Minor Smoke,1,Normal Alert
+32.91,80.38,34.79,93.08,60.27,56,88.52,1,7.33,Fire Emergency,2,High-Priority Emergency
+47.72,100.0,50.02,30.39,130.0,28,94.61,1,4.11,Critical Gas Leak,2,High-Priority Emergency
+26.46,21.54,6.92,37.55,61.98,20,59.92,0,3.6,Safe / Normal Activity,0,Safe
+23.68,5.55,3.73,13.93,71.22,34,34.9,0,4.55,Safe / Normal Activity,0,Safe
+36.7,23.21,23.03,45.72,75.89,31,39.42,0,6.32,Unusual Heat,1,Normal Alert
+29.52,93.07,4.4,20.59,81.65,65,60.42,0,0.38,Crowd Disturbance,1,Normal Alert
+21.63,0.0,6.47,0.0,43.81,16,21.37,0,2.96,Safe / Normal Activity,0,Safe
+31.47,23.52,10.56,21.98,64.95,28,40.83,0,2.0,Safe / Normal Activity,0,Safe
+29.28,45.59,11.34,33.07,64.07,15,80.53,0,2.73,Unusual Heat,1,Normal Alert
+31.04,10.4,0.37,35.28,54.02,17,38.82,0,2.53,Safe / Normal Activity,0,Safe
+35.81,75.42,18.7,119.2,87.98,0,82.15,1,12.34,Fire Emergency,2,High-Priority Emergency
+21.9,25.12,3.11,24.92,44.45,14,24.48,0,3.7,Safe / Normal Activity,0,Safe
+28.38,2.5,4.75,12.3,72.31,36,59.13,0,0.2,Safe / Normal Activity,0,Safe
+22.63,63.59,9.19,31.23,98.64,60,59.54,0,4.48,Minor Smoke,1,Normal Alert
+28.14,32.0,7.69,31.44,76.2,8,53.1,0,2.01,Safe / Normal Activity,0,Safe
+15.0,0.0,1.93,28.91,62.48,24,77.02,0,2.46,Safe / Normal Activity,0,Safe
+28.52,8.64,6.11,1.2,79.33,14,78.63,1,4.04,Safe / Normal Activity,0,Safe
+34.63,37.45,7.91,49.5,78.77,23,56.25,0,10.32,Minor Smoke,1,Normal Alert
+34.73,14.04,7.04,4.82,55.19,25,69.72,0,4.58,Safe / Normal Activity,0,Safe
+30.2,32.27,5.76,53.07,54.69,13,13.8,0,3.73,Safe / Normal Activity,0,Safe
+32.66,60.48,16.81,88.29,50.78,32,48.82,0,7.34,Possible Gas Issue,1,Normal Alert
+46.03,79.53,55.68,63.17,80.42,52,94.74,1,5.28,Critical Gas Leak,2,High-Priority Emergency
+28.89,0.0,1.1,41.52,66.23,13,34.59,0,1.68,Safe / Normal Activity,0,Safe
+30.68,2.42,2.64,25.55,59.7,29,13.41,0,4.14,Safe / Normal Activity,0,Safe
+29.43,17.39,5.62,11.15,60.06,37,35.62,0,1.76,Safe / Normal Activity,0,Safe
+28.0,12.26,7.94,28.8,72.56,39,57.92,0,1.14,Safe / Normal Activity,0,Safe
+26.62,11.49,1.45,16.26,54.83,14,31.68,0,2.8,Safe / Normal Activity,0,Safe
+52.3,41.07,9.97,47.09,77.85,45,100.0,1,6.86,Crowd Disturbance,1,Normal Alert
+28.04,0.29,9.08,38.48,49.86,22,3.49,0,4.07,Safe / Normal Activity,0,Safe
+24.67,4.91,6.92,15.21,54.88,31,14.77,0,2.73,Safe / Normal Activity,0,Safe
+41.79,60.29,7.34,66.68,62.24,70,34.06,0,3.22,Minor Smoke,1,Normal Alert
+29.96,5.84,3.91,32.16,74.68,21,38.89,0,2.7,Safe / Normal Activity,0,Safe
+20.53,7.87,6.94,37.8,82.01,31,43.75,0,1.5,Safe / Normal Activity,0,Safe
+33.93,23.17,3.26,54.0,76.78,49,71.01,0,6.14,Crowd Disturbance,1,Normal Alert
+34.7,45.43,6.92,54.76,84.03,25,60.14,1,3.54,Possible Gas Issue,1,Normal Alert
+43.86,57.18,15.76,88.42,71.16,92,53.99,0,3.85,Minor Smoke,1,Normal Alert
+28.86,24.36,5.54,45.1,64.11,25,19.82,0,2.3,Safe / Normal Activity,0,Safe
+23.96,8.24,16.69,18.57,42.06,14,36.97,0,3.33,Safe / Normal Activity,0,Safe
+56.44,50.46,29.43,50.1,76.85,28,51.23,0,9.5,Heavy Smoke,2,High-Priority Emergency
+27.2,23.77,0.0,33.22,63.3,30,45.6,0,0.25,Safe / Normal Activity,0,Safe
+23.44,21.65,8.76,4.22,48.25,13,30.85,0,0.37,Safe / Normal Activity,0,Safe
+22.89,16.86,1.28,20.49,74.76,6,33.87,0,1.87,Safe / Normal Activity,0,Safe
+30.98,58.94,9.86,70.19,80.43,31,69.55,0,7.25,Possible Gas Issue,1,Normal Alert
+42.97,64.87,24.2,89.6,69.55,72,84.33,0,11.17,Critical Gas Leak,2,High-Priority Emergency
+32.01,30.27,6.34,0.4,37.03,25,26.16,0,2.41,Safe / Normal Activity,0,Safe
+55.77,33.49,19.16,109.75,68.64,69,65.31,0,10.81,Heavy Smoke,2,High-Priority Emergency
+30.71,25.09,1.39,36.48,49.91,25,43.16,0,3.01,Safe / Normal Activity,0,Safe
+22.78,2.5,9.49,24.42,75.94,21,9.9,0,1.94,Safe / Normal Activity,0,Safe
+37.39,26.35,23.51,28.59,68.94,39,34.97,0,8.67,Crowd Disturbance,1,Normal Alert
+28.98,0.0,5.84,17.93,50.36,35,31.48,0,1.93,Safe / Normal Activity,0,Safe
+17.42,4.68,9.84,0.0,51.04,17,72.87,0,1.66,Safe / Normal Activity,0,Safe
+33.52,8.59,10.04,4.33,74.95,17,17.43,0,2.92,Safe / Normal Activity,0,Safe
+43.56,75.63,17.42,87.51,95.96,48,66.17,1,9.06,Severe Heat Emergency,2,High-Priority Emergency
+37.31,25.39,9.9,62.15,67.71,28,52.08,0,1.83,Safe / Normal Activity,0,Safe
+43.43,77.6,22.74,75.46,107.57,69,71.77,0,10.93,Severe Heat Emergency,2,High-Priority Emergency
+23.76,32.36,13.16,63.36,87.65,42,71.88,0,3.18,Minor Smoke,1,Normal Alert
+25.69,16.19,5.86,0.0,55.83,23,32.37,0,3.23,Safe / Normal Activity,0,Safe
+27.45,8.7,9.56,63.05,99.31,51,26.7,0,5.42,Unusual Heat,1,Normal Alert
+29.7,6.83,6.26,27.46,71.73,12,31.1,0,1.57,Safe / Normal Activity,0,Safe
+24.38,5.8,6.66,21.27,31.63,25,19.43,0,0.58,Safe / Normal Activity,0,Safe
+35.21,32.9,14.12,49.62,70.17,9,26.5,0,4.78,Minor Smoke,1,Normal Alert
+30.74,49.25,10.05,26.73,69.83,41,66.15,0,3.19,Unusual Heat,1,Normal Alert
+29.13,15.77,4.0,1.86,54.36,9,3.47,0,0.93,Safe / Normal Activity,0,Safe
+29.92,22.01,2.38,18.62,36.84,16,45.98,0,1.43,Safe / Normal Activity,0,Safe
+32.26,0.84,1.01,31.23,82.72,28,37.19,0,0.2,Safe / Normal Activity,0,Safe
+35.91,31.55,4.26,48.38,75.73,54,62.01,0,4.82,Minor Smoke,1,Normal Alert
+26.42,26.64,2.09,58.59,65.88,27,48.5,0,3.69,Safe / Normal Activity,0,Safe
+18.97,30.03,4.64,23.39,44.37,28,24.97,0,2.07,Safe / Normal Activity,0,Safe
+36.63,35.82,6.19,22.83,56.15,35,31.42,0,3.97,Safe / Normal Activity,0,Safe
+24.31,15.62,0.0,31.15,86.23,31,67.24,0,2.85,Safe / Normal Activity,0,Safe
+28.4,33.9,17.41,49.14,52.81,13,28.61,0,9.75,Minor Smoke,1,Normal Alert
+21.73,63.58,18.55,14.55,69.45,57,71.11,0,6.27,Minor Smoke,1,Normal Alert
+16.31,13.77,10.55,22.24,54.51,33,57.5,0,3.81,Safe / Normal Activity,0,Safe
+32.41,23.33,7.06,23.16,57.92,7,18.89,0,2.86,Safe / Normal Activity,0,Safe
+34.2,15.58,10.01,36.03,57.99,29,33.13,0,3.45,Safe / Normal Activity,0,Safe
+26.67,40.91,23.54,43.19,80.72,47,36.19,0,1.45,Unusual Heat,1,Normal Alert
+42.53,44.42,9.87,56.38,73.1,37,73.45,0,4.9,Minor Smoke,1,Normal Alert
+25.44,0.14,2.32,42.39,66.0,6,7.19,0,4.84,Safe / Normal Activity,0,Safe
+26.07,29.07,7.41,28.13,43.64,33,31.3,0,1.28,Safe / Normal Activity,0,Safe
+27.89,19.52,5.38,27.26,57.54,14,70.11,0,1.36,Safe / Normal Activity,0,Safe
+29.84,8.57,1.26,35.44,38.85,33,32.95,0,3.11,Safe / Normal Activity,0,Safe
+39.07,23.13,17.02,49.38,55.16,34,89.39,0,6.52,Possible Gas Issue,1,Normal Alert
+29.45,24.51,8.9,32.2,65.72,21,25.83,0,3.01,Safe / Normal Activity,0,Safe
+27.93,21.58,0.65,30.39,87.71,23,36.77,0,5.55,Safe / Normal Activity,0,Safe
+37.74,68.27,14.6,58.32,87.11,80,100.0,1,6.09,Fire Emergency,2,High-Priority Emergency
+39.46,11.72,3.72,0.0,79.15,34,86.36,0,4.69,Safe / Normal Activity,0,Safe
+27.35,24.06,0.0,41.09,71.22,22,50.9,0,1.63,Safe / Normal Activity,0,Safe
+24.68,0.0,9.45,37.49,51.88,26,32.69,0,1.56,Safe / Normal Activity,0,Safe
+22.58,26.52,5.74,48.29,61.6,11,62.54,0,3.59,Safe / Normal Activity,0,Safe
+32.95,9.47,5.49,19.77,44.22,19,64.73,0,0.48,Safe / Normal Activity,0,Safe
+19.22,32.65,5.64,13.58,57.44,4,66.46,0,4.55,Safe / Normal Activity,0,Safe
+27.26,30.3,7.03,33.09,70.35,29,44.96,0,5.37,Safe / Normal Activity,0,Safe
+22.47,16.04,6.06,27.23,55.42,26,34.62,0,2.51,Safe / Normal Activity,0,Safe
+21.5,0.0,6.55,28.34,67.85,29,0.0,0,5.46,Safe / Normal Activity,0,Safe
+27.67,49.0,7.19,48.67,64.5,47,62.01,0,2.28,Unusual Heat,1,Normal Alert
+20.94,20.27,16.51,39.55,70.34,21,0.0,0,4.42,Safe / Normal Activity,0,Safe
+23.05,9.01,5.34,8.19,45.05,21,20.17,0,1.33,Safe / Normal Activity,0,Safe
+29.61,13.68,5.29,29.76,59.15,19,47.41,0,2.28,Safe / Normal Activity,0,Safe
+35.56,23.93,5.98,63.15,80.67,45,65.18,0,6.47,Crowd Disturbance,1,Normal Alert
+41.55,54.4,11.29,76.13,77.43,48,65.21,0,3.03,Minor Smoke,1,Normal Alert
+41.23,12.25,6.28,16.2,54.66,41,24.54,0,0.2,Safe / Normal Activity,0,Safe
+23.21,0.0,8.53,58.4,56.23,2,56.0,0,4.45,Safe / Normal Activity,0,Safe
+25.59,9.68,5.29,31.85,58.04,16,34.02,0,3.1,Safe / Normal Activity,0,Safe
+18.07,11.56,9.04,25.94,68.67,21,61.39,0,3.17,Safe / Normal Activity,0,Safe
+31.64,23.5,4.24,4.53,66.46,29,59.81,0,1.14,Safe / Normal Activity,0,Safe
+29.3,15.29,0.0,26.88,36.92,11,65.03,0,0.68,Safe / Normal Activity,0,Safe
+25.35,16.43,13.12,15.59,54.8,41,30.5,0,0.28,Safe / Normal Activity,0,Safe
+26.14,0.0,1.78,32.91,60.35,18,23.03,0,2.95,Safe / Normal Activity,0,Safe
+31.91,0.0,2.67,24.07,59.71,27,43.35,0,1.71,Safe / Normal Activity,0,Safe
+25.77,27.49,3.07,21.18,63.38,41,31.99,0,4.35,Safe / Normal Activity,0,Safe
+34.55,34.21,9.7,41.63,86.81,41,64.18,0,2.48,Crowd Disturbance,1,Normal Alert
+37.72,14.22,2.9,40.6,64.66,29,35.24,0,2.25,Safe / Normal Activity,0,Safe
+33.79,62.15,28.85,118.26,89.55,0,73.12,0,10.07,Heavy Smoke,2,High-Priority Emergency
+29.96,8.58,0.58,17.47,62.19,0,15.02,0,1.89,Safe / Normal Activity,0,Safe
+37.76,16.14,17.0,22.14,98.64,6,34.96,0,8.79,Minor Smoke,1,Normal Alert
+52.47,75.82,25.23,46.34,79.18,21,49.43,0,6.01,Fire Emergency,2,High-Priority Emergency
+52.52,36.66,28.85,59.78,113.32,56,99.72,1,7.48,Heavy Smoke,2,High-Priority Emergency
+28.13,30.56,10.17,31.76,55.77,12,7.53,1,6.31,Minor Smoke,1,Normal Alert
+25.42,70.24,7.54,53.74,83.63,49,25.51,1,0.92,Unusual Heat,1,Normal Alert
+52.12,9.29,4.67,25.15,51.55,61,100.0,0,1.63,Minor Smoke,1,Normal Alert
+33.29,32.31,7.44,51.65,79.93,43,52.05,0,6.4,Unusual Heat,1,Normal Alert
+27.06,24.88,9.16,3.52,42.36,13,16.87,0,3.03,Safe / Normal Activity,0,Safe
+32.5,19.96,6.83,37.6,67.11,23,67.61,0,2.04,Safe / Normal Activity,0,Safe
+22.81,23.03,10.95,21.34,78.0,0,36.89,0,1.41,Safe / Normal Activity,0,Safe
+51.69,36.81,9.15,47.55,43.96,23,80.63,0,2.81,Crowd Disturbance,1,Normal Alert
+33.7,21.17,4.18,18.89,50.55,10,17.11,0,0.95,Safe / Normal Activity,0,Safe
+19.18,18.19,6.94,44.11,52.31,26,44.25,0,3.62,Safe / Normal Activity,0,Safe
+40.43,43.89,10.21,39.49,53.48,22,45.32,0,5.86,Possible Gas Issue,1,Normal Alert
+32.98,6.92,7.13,8.56,57.04,14,50.04,0,4.02,Safe / Normal Activity,0,Safe
+25.77,9.5,0.99,25.29,72.64,25,82.78,0,2.04,Safe / Normal Activity,0,Safe
+25.41,20.7,2.65,37.16,65.7,25,51.74,0,2.76,Safe / Normal Activity,0,Safe
+26.43,31.09,9.87,17.83,61.07,24,45.24,0,0.2,Safe / Normal Activity,0,Safe
+22.56,6.35,3.42,30.25,58.8,24,13.51,0,3.38,Safe / Normal Activity,0,Safe
+29.97,8.75,6.65,50.59,60.77,14,34.52,0,2.27,Safe / Normal Activity,0,Safe
+26.84,1.57,2.15,20.06,58.85,15,34.46,0,3.83,Safe / Normal Activity,0,Safe
+26.5,19.99,3.83,29.44,65.88,32,52.27,0,2.35,Safe / Normal Activity,0,Safe
+28.22,26.64,3.39,13.83,63.36,27,21.52,0,2.36,Safe / Normal Activity,0,Safe
+19.49,34.05,10.9,43.63,95.24,15,40.86,0,3.65,Crowd Disturbance,1,Normal Alert
+24.45,27.08,9.44,23.01,56.18,34,37.6,0,0.2,Safe / Normal Activity,0,Safe
+44.15,79.85,54.6,73.54,74.22,22,86.04,0,9.06,Severe Heat Emergency,2,High-Priority Emergency
+57.99,73.16,22.14,86.12,91.08,31,100.0,1,9.78,Severe Heat Emergency,2,High-Priority Emergency
+33.38,30.69,6.12,29.26,68.26,14,48.94,0,1.59,Safe / Normal Activity,0,Safe
+32.63,25.75,3.17,12.46,52.61,31,18.0,0,3.62,Safe / Normal Activity,0,Safe
+26.56,26.1,4.78,19.22,48.3,34,22.67,0,2.39,Safe / Normal Activity,0,Safe
+27.63,27.04,21.68,51.23,58.86,42,55.79,0,4.29,Minor Smoke,1,Normal Alert
+37.0,31.15,21.94,8.34,75.41,73,56.44,0,3.85,Possible Gas Issue,1,Normal Alert
+37.63,22.9,7.2,35.25,79.42,61,82.15,1,1.6,Minor Smoke,1,Normal Alert
+20.36,21.33,0.62,19.07,64.95,8,17.51,0,3.26,Safe / Normal Activity,0,Safe
+42.43,48.93,12.52,31.33,57.94,28,68.02,0,0.2,Possible Gas Issue,1,Normal Alert
+33.02,16.79,0.33,52.63,60.62,27,45.99,0,1.41,Safe / Normal Activity,0,Safe
+49.85,56.06,17.75,59.1,58.95,60,40.45,0,0.87,Unusual Heat,1,Normal Alert
+16.8,19.18,2.76,0.0,68.03,47,65.79,0,2.51,Safe / Normal Activity,0,Safe
+41.21,58.2,9.6,47.72,78.51,47,56.07,0,4.92,Unusual Heat,1,Normal Alert
+43.47,46.59,24.03,38.88,98.34,47,100.0,1,3.15,Crowd Disturbance,1,Normal Alert
+29.09,19.97,13.8,13.31,72.76,36,52.09,0,4.61,Safe / Normal Activity,0,Safe
+33.15,22.0,6.82,24.94,59.98,30,38.62,0,0.82,Safe / Normal Activity,0,Safe
+22.76,5.51,2.99,24.89,60.65,25,48.02,0,4.7,Safe / Normal Activity,0,Safe
+33.13,30.2,15.38,8.43,62.14,55,20.78,0,8.43,Possible Gas Issue,1,Normal Alert
+28.46,27.19,4.13,33.28,52.28,16,22.01,0,4.24,Safe / Normal Activity,0,Safe
+46.97,37.3,10.92,81.86,121.19,58,67.26,1,6.53,Critical Gas Leak,2,High-Priority Emergency
+25.11,6.42,11.63,0.0,71.37,16,29.79,0,1.43,Safe / Normal Activity,0,Safe
+41.52,61.26,30.38,60.95,59.67,29,100.0,0,8.74,Severe Heat Emergency,2,High-Priority Emergency
+30.38,68.2,10.68,37.69,90.44,24,45.92,0,4.8,Possible Gas Issue,1,Normal Alert
+28.3,36.92,7.34,0.0,65.24,22,38.87,0,2.46,Safe / Normal Activity,0,Safe
+34.63,49.03,8.21,27.1,119.36,24,61.2,0,5.08,Minor Smoke,1,Normal Alert
+31.9,56.81,15.3,58.94,47.43,70,32.78,0,7.25,Minor Smoke,1,Normal Alert
+55.35,46.05,26.97,60.23,88.52,43,34.23,1,7.04,Heavy Smoke,2,High-Priority Emergency
+24.2,19.58,2.42,0.0,66.29,28,34.01,0,2.63,Safe / Normal Activity,0,Safe
+19.68,5.73,3.0,32.97,56.29,17,77.09,0,3.01,Safe / Normal Activity,0,Safe
+25.15,10.04,0.0,34.59,66.83,20,35.26,0,0.2,Safe / Normal Activity,0,Safe
+24.05,4.64,13.09,33.38,32.36,4,35.35,0,0.51,Safe / Normal Activity,0,Safe
+36.72,19.13,7.9,13.0,70.39,17,32.33,0,0.2,Safe / Normal Activity,0,Safe
+34.99,17.82,11.12,8.02,49.0,8,43.01,0,1.8,Safe / Normal Activity,0,Safe
+21.93,3.33,5.81,15.95,52.09,41,36.35,0,1.7,Safe / Normal Activity,0,Safe
+28.22,15.45,0.0,40.57,59.24,31,22.96,0,1.2,Safe / Normal Activity,0,Safe
+33.18,19.11,7.47,39.66,76.03,31,9.57,0,0.99,Safe / Normal Activity,0,Safe
+40.09,41.07,2.27,43.04,51.59,36,22.58,0,5.71,Unusual Heat,1,Normal Alert
+48.36,53.26,9.04,64.18,53.04,20,66.33,0,4.71,Minor Smoke,1,Normal Alert
+27.51,5.22,7.7,22.25,79.2,22,22.63,0,0.48,Safe / Normal Activity,0,Safe
+29.03,21.9,15.88,13.92,57.52,15,42.24,0,2.42,Safe / Normal Activity,0,Safe
+60.95,51.04,37.82,85.46,87.78,42,100.0,0,8.25,Critical Gas Leak,2,High-Priority Emergency
+23.25,33.86,9.55,13.18,67.66,25,27.67,0,3.08,Safe / Normal Activity,0,Safe
+28.08,15.58,7.72,24.98,61.77,14,71.88,0,3.14,Safe / Normal Activity,0,Safe
+25.4,33.6,2.39,12.44,48.39,26,10.54,0,0.2,Safe / Normal Activity,0,Safe
+36.68,29.0,1.58,69.8,54.38,51,43.58,0,6.6,Minor Smoke,1,Normal Alert
+22.41,22.06,4.95,19.8,77.54,13,39.83,0,3.71,Safe / Normal Activity,0,Safe
+33.88,32.8,0.0,24.82,78.78,35,60.65,0,1.95,Crowd Disturbance,1,Normal Alert
+33.35,41.4,7.07,77.06,87.63,42,98.47,0,4.78,Minor Smoke,1,Normal Alert
+22.43,19.01,1.57,30.98,74.75,25,0.94,0,3.35,Safe / Normal Activity,0,Safe
+49.23,7.43,41.16,75.42,73.26,72,61.45,0,8.45,Heavy Smoke,2,High-Priority Emergency
+47.47,67.22,14.52,56.71,85.87,14,73.17,0,5.56,Possible Gas Issue,1,Normal Alert
+29.51,17.18,0.0,24.33,69.35,27,35.95,0,2.97,Safe / Normal Activity,0,Safe
+29.19,26.44,7.45,10.33,29.3,16,53.22,0,3.7,Safe / Normal Activity,0,Safe
+27.74,28.88,4.82,28.08,67.58,40,3.87,0,2.23,Safe / Normal Activity,0,Safe
+31.24,31.46,6.96,18.19,70.84,32,30.81,0,4.27,Safe / Normal Activity,0,Safe
+36.45,23.43,6.18,21.3,68.25,21,41.79,0,4.45,Safe / Normal Activity,0,Safe
+36.46,54.93,26.27,120.0,80.39,34,63.98,1,0.2,Heavy Smoke,2,High-Priority Emergency
+21.99,43.31,8.36,7.62,60.46,23,54.92,0,3.08,Safe / Normal Activity,0,Safe
+24.3,23.87,3.21,8.57,38.12,3,20.07,0,2.97,Safe / Normal Activity,0,Safe
+26.6,0.0,4.69,37.09,64.92,64,45.5,0,4.75,Possible Gas Issue,1,Normal Alert
+22.82,15.41,2.94,24.21,57.93,11,57.84,0,1.83,Safe / Normal Activity,0,Safe
+50.6,62.24,13.72,73.76,76.82,27,42.54,1,9.11,Critical Gas Leak,2,High-Priority Emergency
+30.14,83.37,18.2,74.39,85.93,70,41.69,0,4.55,Minor Smoke,1,Normal Alert
+29.79,17.52,7.1,39.17,65.97,32,19.21,0,4.92,Safe / Normal Activity,0,Safe
+27.5,9.77,3.51,13.56,51.78,7,7.99,0,1.61,Safe / Normal Activity,0,Safe
+61.18,70.15,28.45,53.42,85.82,57,89.32,1,10.75,Critical Gas Leak,2,High-Priority Emergency
+35.06,52.27,8.57,8.94,78.03,50,71.66,0,3.96,Possible Gas Issue,1,Normal Alert
+55.07,72.96,17.71,99.74,72.11,36,100.0,1,6.15,Fire Emergency,2,High-Priority Emergency
+28.44,17.55,0.0,10.22,60.34,18,42.94,0,2.02,Safe / Normal Activity,0,Safe
+27.6,43.85,9.71,43.72,69.62,77,9.7,0,4.79,Possible Gas Issue,1,Normal Alert
+41.3,52.64,11.67,41.32,72.32,35,57.28,0,5.41,Minor Smoke,1,Normal Alert
+30.77,3.7,1.8,0.0,72.26,25,48.11,0,5.18,Safe / Normal Activity,0,Safe
+23.96,17.68,9.42,9.17,53.9,24,95.15,0,4.91,Safe / Normal Activity,0,Safe
+43.44,44.62,5.08,69.25,51.53,66,63.4,0,9.21,Possible Gas Issue,1,Normal Alert
+30.27,13.63,8.86,10.95,44.02,21,38.63,0,4.34,Safe / Normal Activity,0,Safe
+22.75,19.13,6.27,1.76,43.85,22,77.62,0,0.2,Safe / Normal Activity,0,Safe
+15.0,51.19,11.33,70.97,60.79,43,77.62,0,3.78,Unusual Heat,1,Normal Alert
+27.13,21.43,5.94,34.66,54.99,6,77.54,0,1.65,Safe / Normal Activity,0,Safe
+26.67,16.67,4.45,21.77,60.48,24,0.0,0,2.28,Safe / Normal Activity,0,Safe
+29.9,2.22,4.12,13.26,80.11,15,53.16,0,1.82,Safe / Normal Activity,0,Safe
+25.77,28.84,0.0,4.9,35.69,9,21.77,0,1.4,Safe / Normal Activity,0,Safe
+26.84,42.62,40.61,82.09,91.37,26,44.28,1,7.16,Fire Emergency,2,High-Priority Emergency
+41.32,49.35,6.84,47.52,69.18,33,100.0,0,4.24,Unusual Heat,1,Normal Alert
+33.06,1.34,3.43,15.12,58.1,3,49.91,0,3.26,Safe / Normal Activity,0,Safe
+39.43,65.82,13.31,63.69,126.76,51,51.25,0,2.97,Critical Gas Leak,2,High-Priority Emergency
+27.71,30.0,18.56,59.15,81.84,17,47.09,0,3.29,Crowd Disturbance,1,Normal Alert
+25.61,20.41,4.6,24.94,81.71,20,61.59,0,0.3,Safe / Normal Activity,0,Safe
+27.29,23.0,6.02,45.1,83.22,60,65.78,0,0.2,Crowd Disturbance,1,Normal Alert
+27.13,17.83,14.42,38.13,71.21,10,27.74,1,1.34,Safe / Normal Activity,0,Safe
+54.51,71.5,10.85,101.92,89.84,9,73.97,0,10.41,Severe Heat Emergency,2,High-Priority Emergency
+32.64,52.9,13.31,19.38,52.77,57,85.31,0,8.39,Possible Gas Issue,1,Normal Alert
+39.79,21.6,24.12,58.26,68.21,25,64.65,0,6.48,Minor Smoke,1,Normal Alert
+22.23,19.71,3.91,18.56,51.16,20,75.79,0,3.03,Safe / Normal Activity,0,Safe
+48.72,81.73,39.69,51.25,86.61,7,97.46,0,7.56,Fire Emergency,2,High-Priority Emergency
+30.04,6.96,3.35,30.15,64.31,16,25.01,0,1.89,Safe / Normal Activity,0,Safe
+21.45,12.67,7.36,19.68,42.62,34,0.0,0,1.57,Safe / Normal Activity,0,Safe
+27.74,21.62,10.51,12.74,68.63,24,3.77,0,0.34,Safe / Normal Activity,0,Safe
+37.94,45.02,13.93,36.61,86.41,9,57.55,0,3.17,Unusual Heat,1,Normal Alert
+29.14,26.77,4.63,32.15,61.65,11,32.84,0,1.46,Safe / Normal Activity,0,Safe
+53.71,68.93,4.32,30.71,95.64,30,81.04,1,3.23,Heavy Smoke,2,High-Priority Emergency
+46.72,44.33,9.07,27.39,66.34,16,78.44,0,7.42,Unusual Heat,1,Normal Alert
+25.0,5.57,4.29,0.0,59.43,20,54.49,0,4.24,Safe / Normal Activity,0,Safe
+31.1,28.52,5.79,35.18,41.87,31,22.58,0,0.81,Safe / Normal Activity,0,Safe
+27.03,7.76,7.5,0.0,33.35,38,56.08,0,2.5,Safe / Normal Activity,0,Safe
+32.1,20.19,6.59,36.24,51.5,22,37.64,0,1.92,Safe / Normal Activity,0,Safe
+35.51,38.62,4.66,63.84,59.35,33,52.5,0,0.2,Crowd Disturbance,1,Normal Alert
+23.62,28.2,4.09,21.37,85.88,19,62.78,0,3.12,Safe / Normal Activity,0,Safe
+35.49,53.26,7.2,26.33,64.42,39,54.14,0,7.93,Crowd Disturbance,1,Normal Alert
+22.12,8.66,0.26,48.39,64.96,28,11.2,0,3.26,Safe / Normal Activity,0,Safe
+33.23,57.36,28.18,27.11,58.67,21,94.34,0,4.47,Minor Smoke,1,Normal Alert
+40.02,82.69,20.06,65.5,98.96,45,70.3,0,9.85,Fire Emergency,2,High-Priority Emergency
+46.53,48.54,17.62,42.8,63.38,49,62.77,0,4.01,Minor Smoke,1,Normal Alert
+31.43,64.67,15.36,75.84,77.95,38,38.39,0,4.83,Crowd Disturbance,1,Normal Alert
+25.43,28.29,9.74,55.68,80.92,27,69.32,0,0.2,Unusual Heat,1,Normal Alert
+32.39,0.0,6.45,42.61,51.11,22,11.92,0,2.38,Safe / Normal Activity,0,Safe
+27.23,29.54,8.65,10.62,52.59,28,25.52,0,2.42,Safe / Normal Activity,0,Safe
+19.6,32.16,6.71,10.23,51.92,0,16.01,0,5.85,Safe / Normal Activity,0,Safe
+30.63,15.08,4.27,9.57,87.78,20,80.31,0,0.2,Safe / Normal Activity,0,Safe
+30.34,25.96,11.44,45.73,118.94,18,64.04,0,4.8,Minor Smoke,1,Normal Alert
+35.77,19.19,12.75,57.74,78.91,47,90.08,0,4.97,Possible Gas Issue,1,Normal Alert
+30.8,34.05,13.77,36.96,59.96,16,22.67,0,1.27,Possible Gas Issue,1,Normal Alert
+22.0,12.06,0.66,26.94,70.62,15,29.26,0,1.43,Safe / Normal Activity,0,Safe
+29.52,59.54,18.19,59.63,87.88,1,88.78,0,7.23,Unusual Heat,1,Normal Alert
+27.24,13.25,7.47,17.95,72.28,3,27.17,0,1.56,Safe / Normal Activity,0,Safe
+25.81,7.17,7.34,12.43,58.59,32,24.02,0,3.73,Safe / Normal Activity,0,Safe
+42.38,40.53,34.69,69.15,78.87,21,56.86,0,8.9,Possible Gas Issue,1,Normal Alert
+65.26,80.49,8.68,84.18,65.65,15,79.78,1,10.19,Heavy Smoke,2,High-Priority Emergency
+29.66,6.15,5.58,2.41,34.96,31,22.94,0,4.16,Safe / Normal Activity,0,Safe
+23.9,21.9,3.36,0.0,62.6,16,29.2,0,0.21,Safe / Normal Activity,0,Safe
+28.91,6.05,9.63,25.88,65.93,11,22.69,0,5.16,Safe / Normal Activity,0,Safe
+29.4,7.03,7.36,53.56,62.33,40,23.19,1,3.43,Safe / Normal Activity,0,Safe
+53.37,47.91,14.48,96.71,109.45,84,100.0,0,6.3,Heavy Smoke,2,High-Priority Emergency
+44.46,50.84,5.12,25.29,81.38,34,58.42,0,6.62,Minor Smoke,1,Normal Alert
+17.34,18.53,8.78,2.15,52.49,12,38.43,0,5.53,Safe / Normal Activity,0,Safe
+22.93,21.27,8.24,27.04,66.19,26,71.75,0,0.91,Safe / Normal Activity,0,Safe
+30.98,24.92,7.26,36.71,63.44,24,40.42,0,2.38,Safe / Normal Activity,0,Safe
+41.65,39.08,43.64,84.61,87.46,36,80.92,0,4.65,Critical Gas Leak,2,High-Priority Emergency
+26.98,24.68,0.0,21.25,55.42,20,27.97,0,5.39,Safe / Normal Activity,0,Safe
+32.73,43.25,25.96,35.45,101.22,37,98.2,0,5.54,Crowd Disturbance,1,Normal Alert
+30.63,39.36,18.28,46.72,69.25,32,80.83,0,3.2,Unusual Heat,1,Normal Alert
+23.66,19.79,12.11,36.9,44.73,19,19.39,0,4.91,Safe / Normal Activity,0,Safe
+19.89,0.0,2.69,25.74,69.07,27,61.51,0,4.28,Safe / Normal Activity,0,Safe
+45.57,79.36,7.8,72.12,92.25,76,43.29,1,3.83,Critical Gas Leak,2,High-Priority Emergency
+30.89,28.87,3.86,34.05,78.69,2,50.25,0,2.11,Safe / Normal Activity,0,Safe
+20.95,25.43,1.2,19.68,60.48,31,25.47,0,2.65,Safe / Normal Activity,0,Safe
+42.04,79.17,1.45,53.62,57.7,55,38.35,0,3.39,Crowd Disturbance,1,Normal Alert
+34.47,43.82,15.39,46.88,54.05,50,57.83,0,3.1,Minor Smoke,1,Normal Alert
+48.63,91.22,27.09,67.01,72.33,89,54.41,0,9.12,Severe Heat Emergency,2,High-Priority Emergency
+17.72,28.75,8.5,33.69,68.26,20,16.74,0,1.04,Safe / Normal Activity,0,Safe
+29.43,24.07,11.91,26.83,73.02,18,28.43,0,1.92,Safe / Normal Activity,0,Safe
+28.35,5.39,2.47,30.26,72.53,10,51.41,0,2.52,Safe / Normal Activity,0,Safe
+34.08,24.07,9.18,46.81,51.85,10,23.56,0,0.2,Safe / Normal Activity,0,Safe
+25.96,10.55,9.14,26.58,53.19,29,52.47,0,1.76,Safe / Normal Activity,0,Safe
+15.87,5.09,3.03,22.96,48.71,16,13.49,0,3.14,Safe / Normal Activity,0,Safe
+29.01,16.12,0.0,13.94,55.71,17,39.5,0,3.72,Safe / Normal Activity,0,Safe
+22.06,22.78,8.56,11.52,72.04,20,9.8,0,2.83,Safe / Normal Activity,0,Safe
+25.86,15.63,3.12,29.93,60.44,24,45.14,0,1.16,Safe / Normal Activity,0,Safe
+15.95,21.65,1.15,23.72,65.82,29,13.92,0,5.01,Safe / Normal Activity,0,Safe
+47.0,55.77,14.36,25.89,84.78,34,71.33,0,4.38,Minor Smoke,1,Normal Alert
+28.23,20.94,3.68,4.54,82.12,52,46.95,0,1.34,Safe / Normal Activity,0,Safe
+29.55,29.41,1.15,20.38,63.55,32,31.13,0,3.43,Safe / Normal Activity,0,Safe
+32.62,15.17,7.62,15.83,50.0,34,45.75,0,4.75,Safe / Normal Activity,0,Safe
+21.73,10.48,6.63,14.66,71.18,20,18.15,0,2.76,Safe / Normal Activity,0,Safe
+31.67,19.93,7.84,26.16,58.55,13,43.78,0,5.03,Safe / Normal Activity,0,Safe
+33.71,22.33,7.51,20.86,44.61,19,40.03,0,3.2,Safe / Normal Activity,0,Safe
+31.61,9.08,3.27,40.86,71.02,17,35.86,0,2.55,Safe / Normal Activity,0,Safe
+29.36,41.35,6.76,30.61,39.08,16,62.58,0,0.2,Safe / Normal Activity,0,Safe
+30.37,35.18,0.0,41.75,25.0,33,37.83,0,3.17,Safe / Normal Activity,0,Safe
+32.75,19.64,8.34,16.65,36.8,30,73.0,0,0.2,Safe / Normal Activity,0,Safe
+19.43,7.54,0.0,22.57,66.11,5,53.54,0,1.68,Safe / Normal Activity,0,Safe
+33.79,2.9,9.67,47.16,76.53,44,64.37,0,5.49,Possible Gas Issue,1,Normal Alert
+42.01,36.28,14.22,43.09,64.3,46,46.79,1,4.87,Possible Gas Issue,1,Normal Alert
+32.7,28.85,0.48,55.04,77.47,52,47.31,0,3.89,Crowd Disturbance,1,Normal Alert
+22.62,6.06,0.0,41.92,78.82,29,20.08,0,1.97,Safe / Normal Activity,0,Safe
+33.12,63.87,16.61,93.22,77.73,30,45.54,0,4.13,Possible Gas Issue,1,Normal Alert
+29.99,16.2,2.02,24.95,74.17,27,41.33,0,3.8,Safe / Normal Activity,0,Safe
+15.0,19.83,16.28,2.39,57.86,22,28.75,0,3.21,Safe / Normal Activity,0,Safe
+36.07,52.35,12.12,113.78,76.27,41,21.37,0,7.55,Unusual Heat,1,Normal Alert
+20.32,0.0,6.13,39.82,61.55,18,0.83,0,3.49,Safe / Normal Activity,0,Safe
+18.09,27.35,9.06,36.72,68.59,30,48.41,0,0.2,Safe / Normal Activity,0,Safe
+24.49,24.75,11.09,55.15,78.87,57,84.27,0,5.37,Crowd Disturbance,1,Normal Alert
+46.93,70.76,0.0,120.0,98.2,35,100.0,1,7.72,Severe Heat Emergency,2,High-Priority Emergency
+43.64,98.69,23.64,75.74,109.67,62,73.91,0,15.42,Critical Gas Leak,2,High-Priority Emergency
+27.58,17.71,11.24,14.21,57.38,4,14.32,0,2.42,Safe / Normal Activity,0,Safe
+35.85,21.36,2.35,12.54,78.87,36,38.56,0,4.19,Safe / Normal Activity,0,Safe
+28.05,45.06,27.91,51.31,62.37,44,48.66,0,6.48,Crowd Disturbance,1,Normal Alert
+32.59,12.89,4.49,9.5,59.05,15,17.78,0,3.2,Safe / Normal Activity,0,Safe
+39.01,53.9,17.4,38.32,78.09,32,68.65,1,3.88,Unusual Heat,1,Normal Alert
+27.73,13.96,0.0,28.6,73.55,52,30.18,0,0.84,Safe / Normal Activity,0,Safe
+28.04,18.02,2.75,19.73,35.28,33,22.59,0,0.36,Safe / Normal Activity,0,Safe
+24.09,13.2,5.95,28.24,79.71,31,57.24,0,3.35,Safe / Normal Activity,0,Safe
+34.74,56.16,19.51,60.62,52.18,22,52.95,0,4.75,Unusual Heat,1,Normal Alert
+32.68,29.15,10.8,37.67,47.52,28,25.85,0,2.07,Safe / Normal Activity,0,Safe
+33.62,20.61,14.07,24.3,92.82,24,38.45,0,4.17,Safe / Normal Activity,0,Safe
+24.49,9.53,11.12,37.06,75.72,18,36.98,0,3.67,Safe / Normal Activity,0,Safe
+34.77,19.68,13.9,33.66,57.95,32,72.12,0,2.12,Safe / Normal Activity,0,Safe
+32.93,16.26,5.13,29.49,82.76,27,47.09,1,2.01,Safe / Normal Activity,0,Safe
+33.87,40.44,24.03,41.97,74.79,21,74.77,0,8.7,Unusual Heat,1,Normal Alert
+29.87,14.46,8.11,26.08,61.76,24,47.04,0,2.14,Safe / Normal Activity,0,Safe
+46.95,86.79,3.57,20.55,59.64,35,78.71,1,5.21,Minor Smoke,1,Normal Alert
+38.7,25.54,10.29,46.58,50.24,16,34.33,0,5.39,Minor Smoke,1,Normal Alert
+17.8,1.16,8.65,0.0,76.92,0,54.87,0,4.07,Safe / Normal Activity,0,Safe
+43.04,0.0,8.78,0.0,66.55,20,40.6,0,3.67,Safe / Normal Activity,0,Safe
+19.76,28.42,4.36,3.77,81.73,21,76.15,0,1.3,Safe / Normal Activity,0,Safe
+26.58,17.21,12.11,27.69,63.29,20,36.99,0,2.51,Safe / Normal Activity,0,Safe
+25.03,10.35,3.78,3.77,51.25,40,33.87,0,0.2,Safe / Normal Activity,0,Safe
+55.25,60.61,18.74,76.52,79.08,0,93.44,1,6.3,Critical Gas Leak,2,High-Priority Emergency
+38.37,33.13,27.91,112.34,91.66,17,79.5,0,10.06,Critical Gas Leak,2,High-Priority Emergency
+15.0,47.81,4.98,17.14,71.17,44,22.9,0,6.63,Possible Gas Issue,1,Normal Alert
+27.23,7.32,2.08,35.34,41.35,35,34.7,0,0.2,Safe / Normal Activity,0,Safe
+33.97,49.04,2.65,57.47,75.34,25,77.8,0,5.63,Crowd Disturbance,1,Normal Alert
+45.08,45.02,9.89,33.65,69.46,47,41.24,0,9.92,Unusual Heat,1,Normal Alert
+26.69,2.56,0.62,32.1,60.22,33,27.33,0,2.26,Safe / Normal Activity,0,Safe
+29.87,30.78,3.62,88.78,72.55,49,47.19,0,4.24,Minor Smoke,1,Normal Alert
+24.4,7.29,6.62,28.49,82.36,26,50.88,0,0.77,Safe / Normal Activity,0,Safe
+22.18,5.16,0.67,32.34,64.77,23,0.0,0,1.16,Safe / Normal Activity,0,Safe
+37.26,1.51,2.75,0.0,65.71,9,16.54,0,3.67,Safe / Normal Activity,0,Safe
+30.56,34.12,3.26,24.84,44.24,18,27.62,0,4.03,Safe / Normal Activity,0,Safe
+31.96,7.57,9.99,21.43,56.78,13,26.8,0,2.96,Safe / Normal Activity,0,Safe
+36.22,33.28,29.12,74.41,63.18,32,54.29,1,3.12,Unusual Heat,1,Normal Alert
+53.83,94.49,7.92,43.8,79.3,39,100.0,1,10.32,Severe Heat Emergency,2,High-Priority Emergency
+25.57,1.48,9.13,28.38,77.72,19,35.16,0,3.84,Safe / Normal Activity,0,Safe
+24.71,51.25,11.86,24.77,42.73,35,90.85,0,5.65,Minor Smoke,1,Normal Alert
+70.58,63.1,37.39,60.72,78.74,33,33.79,1,5.25,Heavy Smoke,2,High-Priority Emergency
+21.1,13.96,13.05,49.22,39.41,18,17.31,0,2.93,Safe / Normal Activity,0,Safe
+23.82,16.73,4.09,42.99,68.11,30,0.0,0,5.62,Safe / Normal Activity,0,Safe
+33.63,0.0,4.75,6.38,83.24,25,22.64,0,0.2,Safe / Normal Activity,0,Safe
+21.58,16.36,9.38,0.0,56.04,34,8.97,0,2.6,Safe / Normal Activity,0,Safe
+47.0,33.86,10.8,64.95,54.1,33,48.97,0,6.84,Crowd Disturbance,1,Normal Alert
+29.77,8.51,6.55,41.38,50.19,24,34.14,0,0.2,Safe / Normal Activity,0,Safe
+34.05,8.26,10.1,13.92,52.87,37,57.88,0,3.64,Safe / Normal Activity,0,Safe
+25.56,15.92,3.35,33.75,51.99,40,31.68,0,3.64,Safe / Normal Activity,0,Safe
+27.12,13.02,5.88,33.62,52.38,20,38.21,0,2.35,Safe / Normal Activity,0,Safe
+68.89,60.71,21.91,67.72,64.3,25,64.39,1,7.19,Fire Emergency,2,High-Priority Emergency
+33.13,31.51,11.02,10.91,54.56,44,42.82,0,3.58,Safe / Normal Activity,0,Safe
+32.04,10.29,6.88,34.05,45.92,22,15.71,0,1.66,Safe / Normal Activity,0,Safe
+29.39,12.78,3.41,22.67,46.09,27,60.63,0,2.2,Safe / Normal Activity,0,Safe
+28.87,0.0,8.15,62.32,59.41,21,52.87,0,3.96,Safe / Normal Activity,0,Safe
+16.22,21.63,16.29,30.09,45.99,25,12.39,0,1.07,Safe / Normal Activity,0,Safe
+27.37,7.42,3.81,41.32,62.34,15,15.1,0,0.62,Safe / Normal Activity,0,Safe
+27.56,25.8,3.76,42.42,51.67,19,16.41,0,5.65,Safe / Normal Activity,0,Safe
+18.19,12.54,11.06,3.19,68.37,37,39.56,0,5.14,Safe / Normal Activity,0,Safe
+48.64,36.88,8.27,27.68,88.65,12,53.44,0,3.59,Crowd Disturbance,1,Normal Alert
+36.96,84.16,11.15,37.86,89.23,41,90.67,1,4.2,Unusual Heat,1,Normal Alert
+23.66,4.96,14.66,18.39,92.83,38,53.63,1,6.29,Unusual Heat,1,Normal Alert
+29.37,20.26,20.32,54.45,70.48,49,59.2,0,2.84,Crowd Disturbance,1,Normal Alert
+30.94,66.01,10.68,63.95,85.01,58,40.51,0,9.23,Crowd Disturbance,1,Normal Alert
+25.71,16.35,3.91,17.5,83.25,10,19.16,0,3.44,Safe / Normal Activity,0,Safe
+37.6,11.5,6.51,13.41,62.86,1,51.7,0,2.41,Safe / Normal Activity,0,Safe
+25.05,7.05,8.91,6.78,67.65,47,67.71,0,1.69,Safe / Normal Activity,0,Safe
+29.11,15.3,0.4,27.01,60.87,45,32.94,0,0.6,Safe / Normal Activity,0,Safe
+27.8,50.99,19.59,26.89,74.36,12,55.01,0,3.76,Possible Gas Issue,1,Normal Alert
+21.35,9.52,13.03,22.95,47.97,18,6.05,0,4.54,Safe / Normal Activity,0,Safe
+34.0,72.03,11.33,46.24,83.61,0,63.51,0,8.37,Crowd Disturbance,1,Normal Alert
+41.75,17.59,20.69,41.49,60.43,41,54.54,0,5.62,Unusual Heat,1,Normal Alert
+31.5,26.93,9.13,40.45,68.91,24,62.78,0,2.55,Safe / Normal Activity,0,Safe
+67.94,98.06,24.89,60.66,114.34,67,81.31,0,8.36,Fire Emergency,2,High-Priority Emergency
+26.89,9.36,6.52,25.45,56.12,33,63.78,0,2.09,Safe / Normal Activity,0,Safe
+40.29,39.4,3.35,61.13,76.19,84,91.06,0,5.4,Crowd Disturbance,1,Normal Alert
+21.98,0.0,2.51,21.38,33.63,15,33.05,0,1.51,Safe / Normal Activity,0,Safe
+25.29,33.24,8.65,14.72,60.11,22,22.64,0,4.02,Safe / Normal Activity,0,Safe
+24.9,5.05,5.83,23.53,35.35,22,55.36,0,5.84,Safe / Normal Activity,0,Safe
+33.26,30.49,17.2,31.86,63.12,34,26.82,0,1.53,Safe / Normal Activity,0,Safe
+28.99,9.48,3.25,27.38,59.21,0,8.89,0,1.18,Safe / Normal Activity,0,Safe
+53.56,68.6,38.85,90.82,107.29,63,79.19,0,10.24,Fire Emergency,2,High-Priority Emergency
+37.63,60.88,0.0,40.9,69.41,58,93.57,0,8.19,Unusual Heat,1,Normal Alert
+21.29,13.66,4.73,1.74,69.45,30,59.08,0,2.44,Safe / Normal Activity,0,Safe
+26.85,32.88,0.0,9.56,61.07,9,32.83,0,1.51,Safe / Normal Activity,0,Safe
+27.32,22.28,5.05,16.11,58.85,22,3.19,0,1.82,Safe / Normal Activity,0,Safe
+33.31,21.91,10.68,8.86,56.17,7,23.9,0,4.73,Safe / Normal Activity,0,Safe
+36.37,54.38,24.01,86.64,56.32,12,84.79,1,5.87,Heavy Smoke,2,High-Priority Emergency
+27.81,20.16,5.43,17.25,71.98,25,25.06,0,3.07,Safe / Normal Activity,0,Safe
+35.59,23.86,10.86,14.06,54.19,19,35.13,0,4.4,Safe / Normal Activity,0,Safe
+31.42,12.94,8.57,24.9,70.36,6,35.09,0,3.44,Safe / Normal Activity,0,Safe
+23.86,0.0,1.67,21.21,61.83,42,49.65,0,2.45,Safe / Normal Activity,0,Safe
+32.52,10.1,5.44,7.84,79.45,27,23.85,0,3.26,Safe / Normal Activity,0,Safe
+33.24,28.38,7.42,54.12,68.63,29,29.61,0,4.37,Unusual Heat,1,Normal Alert
+36.39,51.46,16.91,58.61,70.39,27,36.03,0,4.85,Possible Gas Issue,1,Normal Alert
+40.35,66.02,12.45,30.48,102.75,38,58.26,0,8.65,Severe Heat Emergency,2,High-Priority Emergency
+32.18,34.12,19.5,8.98,103.5,81,0.0,0,3.07,Crowd Disturbance,1,Normal Alert
+25.68,11.82,9.25,20.54,49.16,20,48.3,0,0.2,Safe / Normal Activity,0,Safe
+48.95,26.44,11.04,38.65,82.22,69,71.76,0,1.48,Unusual Heat,1,Normal Alert
+46.05,27.84,35.65,44.84,114.88,91,70.03,0,3.36,Heavy Smoke,2,High-Priority Emergency
+39.37,29.03,4.39,40.92,67.01,31,79.89,0,8.96,Unusual Heat,1,Normal Alert
+66.77,42.65,24.99,59.75,81.81,67,100.0,1,6.0,Heavy Smoke,2,High-Priority Emergency
+36.29,23.92,5.06,22.93,67.44,41,16.94,0,8.44,Unusual Heat,1,Normal Alert
+30.9,12.86,15.22,0.0,90.65,33,99.29,0,7.0,Unusual Heat,1,Normal Alert
+26.5,12.69,0.52,29.74,69.79,43,58.16,0,0.99,Safe / Normal Activity,0,Safe
+25.42,64.52,6.55,78.08,81.88,43,52.25,0,4.76,Minor Smoke,1,Normal Alert
+30.48,14.56,2.81,29.8,60.17,28,28.92,0,5.1,Safe / Normal Activity,0,Safe
+34.73,24.84,4.45,18.1,78.97,18,25.35,0,2.43,Safe / Normal Activity,0,Safe
+47.38,12.83,15.63,90.49,74.45,32,33.31,0,2.95,Possible Gas Issue,1,Normal Alert
+47.96,38.08,45.24,100.87,87.43,22,100.0,1,3.76,Fire Emergency,2,High-Priority Emergency
+41.89,33.45,16.9,90.61,81.24,57,60.53,0,5.7,Heavy Smoke,2,High-Priority Emergency
+36.6,12.52,7.54,1.65,80.76,16,59.01,0,3.42,Safe / Normal Activity,0,Safe
+39.7,29.86,19.64,31.06,85.67,30,66.69,0,4.92,Minor Smoke,1,Normal Alert
+36.73,38.8,8.22,45.84,76.01,26,56.17,0,10.43,Crowd Disturbance,1,Normal Alert
+32.3,18.73,10.69,0.0,27.75,17,10.43,0,2.81,Safe / Normal Activity,0,Safe
+31.6,4.62,7.6,22.19,65.52,16,65.66,1,5.16,Safe / Normal Activity,0,Safe
+23.05,23.43,5.76,17.74,69.22,18,0.0,0,4.41,Safe / Normal Activity,0,Safe
+43.61,71.97,11.88,19.85,67.71,37,36.85,0,10.17,Crowd Disturbance,1,Normal Alert
+26.95,3.05,12.19,22.99,57.24,28,26.29,0,3.48,Safe / Normal Activity,0,Safe
+33.13,86.83,23.64,100.97,84.38,46,50.75,1,4.5,Fire Emergency,2,High-Priority Emergency
+24.57,16.01,6.48,0.0,58.0,32,30.43,0,2.74,Safe / Normal Activity,0,Safe
+47.61,42.36,24.53,96.85,69.08,40,47.37,0,7.0,Severe Heat Emergency,2,High-Priority Emergency
+27.46,3.96,1.87,3.02,47.13,38,23.34,0,1.25,Safe / Normal Activity,0,Safe
+40.32,19.53,12.27,48.11,108.92,48,45.96,0,9.93,Minor Smoke,1,Normal Alert
+18.85,7.58,5.05,16.58,56.67,6,66.08,0,2.2,Safe / Normal Activity,0,Safe
+32.23,15.7,2.08,4.47,58.01,13,42.1,0,3.72,Safe / Normal Activity,0,Safe
+35.81,41.42,22.09,37.81,63.11,27,54.76,0,2.81,Possible Gas Issue,1,Normal Alert
+42.83,71.56,26.77,101.99,123.2,66,100.0,1,12.77,Fire Emergency,2,High-Priority Emergency
+47.96,55.12,16.94,42.69,73.38,31,72.67,0,4.34,Unusual Heat,1,Normal Alert
+35.62,13.8,7.82,40.95,64.9,39,13.17,0,4.13,Safe / Normal Activity,0,Safe
+28.05,30.25,1.33,18.25,79.78,0,49.21,0,5.45,Safe / Normal Activity,0,Safe
+19.09,32.1,3.76,16.19,45.11,9,46.07,0,3.61,Safe / Normal Activity,0,Safe
+23.69,3.87,3.89,26.38,57.39,22,51.92,0,2.03,Safe / Normal Activity,0,Safe
+27.69,39.37,15.29,16.32,60.64,24,54.43,0,6.5,Minor Smoke,1,Normal Alert
+23.76,9.57,9.66,43.31,52.18,26,50.18,0,5.16,Crowd Disturbance,1,Normal Alert
+45.34,46.79,6.35,48.98,75.86,59,45.79,0,1.2,Crowd Disturbance,1,Normal Alert
+35.29,64.85,21.04,51.14,70.07,46,55.03,0,4.99,Possible Gas Issue,1,Normal Alert
+31.78,16.17,15.9,29.78,90.47,14,61.8,0,0.2,Possible Gas Issue,1,Normal Alert
+49.13,30.34,12.99,59.0,84.89,42,80.94,0,9.03,Possible Gas Issue,1,Normal Alert
+36.82,25.01,0.0,55.94,53.53,40,38.54,0,1.47,Safe / Normal Activity,0,Safe
+30.13,13.47,12.32,27.7,73.17,0,36.29,0,2.84,Safe / Normal Activity,0,Safe
+41.73,31.41,12.34,71.81,39.82,48,51.65,0,5.61,Unusual Heat,1,Normal Alert
+43.59,56.7,11.05,65.39,87.02,35,43.75,1,6.81,Unusual Heat,1,Normal Alert
+21.77,0.0,9.33,14.89,65.3,37,11.82,0,2.24,Safe / Normal Activity,0,Safe
+28.9,28.39,0.68,29.41,74.41,20,35.25,0,3.02,Safe / Normal Activity,0,Safe
+39.08,48.1,5.13,67.8,91.5,40,26.13,0,5.27,Crowd Disturbance,1,Normal Alert
+21.28,12.4,0.36,29.89,63.16,2,45.03,0,3.27,Safe / Normal Activity,0,Safe
+25.04,7.99,2.92,15.0,61.24,24,34.19,0,1.97,Safe / Normal Activity,0,Safe
+76.58,47.81,17.75,120.0,95.58,17,91.85,1,10.21,Heavy Smoke,2,High-Priority Emergency
+31.92,66.96,15.96,67.43,80.52,29,72.45,0,5.12,Unusual Heat,1,Normal Alert
+36.01,24.5,6.85,25.27,62.78,7,36.2,0,1.88,Safe / Normal Activity,0,Safe
+37.36,38.38,17.42,60.93,76.51,12,98.4,0,4.61,Minor Smoke,1,Normal Alert
+24.56,31.44,11.54,27.78,59.6,29,39.48,0,3.01,Safe / Normal Activity,0,Safe
+31.91,42.54,13.43,59.66,64.71,50,39.06,0,3.53,Minor Smoke,1,Normal Alert
+21.64,26.16,2.12,12.91,77.32,15,34.24,0,3.75,Safe / Normal Activity,0,Safe
+31.23,23.39,8.15,22.96,54.18,12,63.8,0,1.46,Safe / Normal Activity,0,Safe
+27.2,13.0,1.49,24.31,55.6,11,8.42,0,1.94,Safe / Normal Activity,0,Safe
+26.57,7.25,8.6,21.15,68.5,20,22.26,0,0.61,Safe / Normal Activity,0,Safe
+54.93,44.32,36.94,63.54,107.13,23,61.44,0,11.05,Heavy Smoke,2,High-Priority Emergency
+27.21,34.38,4.84,36.28,48.75,27,0.0,0,3.2,Safe / Normal Activity,0,Safe
+20.44,20.27,9.63,15.48,48.4,16,18.68,0,2.65,Safe / Normal Activity,0,Safe
+25.47,32.74,3.12,40.09,47.46,23,61.66,0,1.87,Safe / Normal Activity,0,Safe
+38.89,45.58,8.22,59.93,101.94,45,71.46,0,1.29,Minor Smoke,1,Normal Alert
+38.22,19.7,7.87,92.4,70.2,24,84.36,1,3.73,Crowd Disturbance,1,Normal Alert
+49.47,31.21,32.07,62.09,115.72,35,96.02,1,4.58,Severe Heat Emergency,2,High-Priority Emergency
+26.03,19.89,2.57,25.51,58.08,19,38.98,0,1.58,Safe / Normal Activity,0,Safe
+27.82,10.01,3.78,20.46,60.42,17,44.48,0,1.4,Safe / Normal Activity,0,Safe
+25.6,7.44,12.52,22.25,63.3,16,37.68,0,2.25,Safe / Normal Activity,0,Safe
+22.31,13.23,0.0,7.34,80.03,32,64.38,0,3.51,Safe / Normal Activity,0,Safe
+44.02,42.22,39.91,73.61,130.0,41,100.0,1,11.58,Critical Gas Leak,2,High-Priority Emergency
+27.84,29.27,4.77,21.17,84.01,33,60.15,0,0.34,Unusual Heat,1,Normal Alert
+33.43,12.51,8.13,30.07,78.82,21,0.0,0,2.8,Safe / Normal Activity,0,Safe
+21.83,17.47,4.56,4.54,69.73,15,29.87,0,4.35,Safe / Normal Activity,0,Safe
+48.55,65.66,19.27,83.57,112.29,64,88.74,1,2.88,Critical Gas Leak,2,High-Priority Emergency
+25.98,8.74,1.74,0.0,43.5,19,36.61,0,2.62,Safe / Normal Activity,0,Safe
+24.83,26.91,5.35,31.05,63.64,5,36.19,0,2.34,Safe / Normal Activity,0,Safe
+23.27,19.82,0.63,22.19,68.44,33,22.72,0,2.78,Safe / Normal Activity,0,Safe
+34.74,1.19,2.36,58.46,57.45,0,26.35,0,2.86,Safe / Normal Activity,0,Safe
+31.05,6.88,4.12,34.01,38.25,6,33.44,0,2.06,Safe / Normal Activity,0,Safe
+20.68,18.14,5.4,29.14,63.61,24,9.07,0,2.0,Safe / Normal Activity,0,Safe
+26.17,26.48,3.12,39.57,79.78,31,18.39,0,4.12,Safe / Normal Activity,0,Safe
+35.78,24.59,20.21,28.91,67.64,46,34.5,0,7.41,Possible Gas Issue,1,Normal Alert
+28.06,28.47,10.53,22.1,30.62,9,53.27,0,2.01,Safe / Normal Activity,0,Safe
+28.69,30.7,3.7,13.63,60.32,26,34.92,0,1.3,Safe / Normal Activity,0,Safe
+50.32,73.35,19.8,92.99,90.68,67,78.88,1,5.28,Severe Heat Emergency,2,High-Priority Emergency
+43.57,49.44,4.84,50.8,38.39,27,80.14,0,5.08,Unusual Heat,1,Normal Alert
+15.0,12.08,7.35,28.05,73.51,19,34.69,0,2.19,Safe / Normal Activity,0,Safe
+20.69,0.0,1.66,41.61,57.48,25,27.73,0,3.9,Safe / Normal Activity,0,Safe
+25.11,52.35,24.29,77.76,74.92,7,58.98,1,4.83,Fire Emergency,2,High-Priority Emergency
+20.93,19.01,6.63,34.49,59.27,31,34.56,0,0.25,Safe / Normal Activity,0,Safe
+15.0,19.78,7.72,28.18,54.18,40,28.8,0,3.39,Safe / Normal Activity,0,Safe
+67.91,57.34,16.51,34.55,115.94,59,84.06,0,8.34,Fire Emergency,2,High-Priority Emergency
+20.49,14.04,2.1,16.85,55.77,15,10.13,0,2.95,Safe / Normal Activity,0,Safe
+33.42,51.64,15.3,52.79,84.27,39,73.74,0,5.19,Minor Smoke,1,Normal Alert
+34.65,11.22,7.57,27.38,53.08,12,30.92,0,0.31,Safe / Normal Activity,0,Safe
+30.44,42.79,20.86,58.64,35.01,49,46.72,0,4.77,Possible Gas Issue,1,Normal Alert
+26.04,14.98,5.91,39.48,60.74,35,56.8,0,0.2,Safe / Normal Activity,0,Safe
+32.58,11.42,8.86,9.36,45.59,46,18.86,0,2.68,Safe / Normal Activity,0,Safe
+24.9,15.55,0.8,21.82,46.92,17,56.51,0,0.28,Safe / Normal Activity,0,Safe
+31.26,15.93,3.83,31.71,58.83,8,74.96,0,2.38,Safe / Normal Activity,0,Safe
+32.16,59.24,8.33,14.56,63.82,61,77.31,0,8.1,Unusual Heat,1,Normal Alert
+25.67,14.34,7.32,11.19,61.06,26,4.26,0,2.05,Safe / Normal Activity,0,Safe
+32.14,0.0,4.47,15.74,73.48,21,73.92,0,1.88,Safe / Normal Activity,0,Safe
+36.68,31.63,18.02,19.02,61.64,45,85.97,0,8.1,Possible Gas Issue,1,Normal Alert
+34.02,4.09,0.0,14.88,73.7,36,72.93,0,2.14,Minor Smoke,1,Normal Alert
+27.17,18.31,2.84,33.72,52.92,12,27.15,0,2.3,Safe / Normal Activity,0,Safe
+23.53,25.26,14.57,24.73,77.04,34,25.89,0,0.58,Safe / Normal Activity,0,Safe
+46.75,50.85,19.76,53.25,82.83,61,72.61,1,4.91,Heavy Smoke,2,High-Priority Emergency
+24.36,42.39,15.52,52.39,62.19,41,48.66,0,6.58,Minor Smoke,1,Normal Alert
+41.64,27.05,20.26,36.63,83.8,28,54.07,0,4.08,Minor Smoke,1,Normal Alert
+50.0,55.39,47.83,42.94,77.86,28,63.72,0,12.03,Heavy Smoke,2,High-Priority Emergency
+29.94,17.17,21.14,70.54,72.41,12,30.25,0,6.12,Crowd Disturbance,1,Normal Alert
+16.67,12.79,12.47,19.17,80.37,30,16.31,0,2.31,Safe / Normal Activity,0,Safe
+22.24,6.3,12.03,9.29,75.02,17,37.49,0,1.6,Safe / Normal Activity,0,Safe
+29.84,0.0,7.76,0.0,58.05,32,50.45,0,0.75,Safe / Normal Activity,0,Safe
+30.18,41.35,0.0,46.72,78.67,32,70.56,0,3.5,Crowd Disturbance,1,Normal Alert
+50.47,43.99,17.48,83.98,113.51,48,86.08,0,8.09,Critical Gas Leak,2,High-Priority Emergency
+26.7,28.29,3.84,18.86,74.76,21,15.82,0,0.88,Safe / Normal Activity,0,Safe
+26.68,19.47,7.07,19.53,58.6,19,15.68,0,2.17,Safe / Normal Activity,0,Safe
+29.98,12.65,4.58,16.08,40.85,20,29.86,0,0.7,Safe / Normal Activity,0,Safe
+42.65,45.13,43.75,50.26,98.12,71,72.08,1,2.93,Critical Gas Leak,2,High-Priority Emergency
+20.7,19.92,6.46,26.9,67.13,11,18.49,0,1.56,Safe / Normal Activity,0,Safe
+15.0,22.49,1.85,28.07,79.11,22,57.92,0,4.88,Safe / Normal Activity,0,Safe
+21.69,15.92,8.69,19.52,75.98,17,79.39,0,2.92,Safe / Normal Activity,0,Safe
+29.76,27.92,1.25,4.94,77.33,25,33.47,1,0.2,Safe / Normal Activity,0,Safe
+26.05,8.47,9.67,34.94,68.5,27,8.05,0,3.44,Safe / Normal Activity,0,Safe
+33.23,37.18,0.0,16.95,51.35,24,38.27,0,4.04,Safe / Normal Activity,0,Safe
+21.49,5.59,1.9,17.32,45.03,21,34.69,0,3.81,Safe / Normal Activity,0,Safe
+26.7,26.63,5.22,21.69,53.68,22,52.24,0,3.28,Safe / Normal Activity,0,Safe
+22.94,23.59,3.68,33.07,61.79,40,14.92,0,1.58,Safe / Normal Activity,0,Safe
+20.08,2.17,8.49,21.95,54.76,17,26.06,0,1.4,Safe / Normal Activity,0,Safe
+20.39,23.96,5.14,48.5,54.16,32,59.64,0,1.39,Safe / Normal Activity,0,Safe
+40.19,48.35,2.13,23.3,35.95,48,53.24,0,0.74,Possible Gas Issue,1,Normal Alert
+21.51,11.22,3.31,23.53,68.59,49,37.6,0,1.26,Safe / Normal Activity,0,Safe
+18.63,12.48,0.0,22.19,50.85,0,72.72,0,0.2,Safe / Normal Activity,0,Safe
+31.49,8.71,10.36,12.47,53.97,26,49.86,0,2.37,Safe / Normal Activity,0,Safe
+29.64,23.46,6.8,20.15,42.21,29,38.84,0,4.42,Safe / Normal Activity,0,Safe
+19.86,32.44,5.91,26.13,55.86,2,35.21,0,3.51,Safe / Normal Activity,0,Safe
+26.01,0.0,0.0,48.68,46.8,39,19.32,0,3.44,Safe / Normal Activity,0,Safe
+29.26,66.66,12.53,56.68,69.99,49,93.73,0,8.95,Crowd Disturbance,1,Normal Alert
+30.82,20.89,1.73,24.78,61.1,12,45.16,0,2.39,Safe / Normal Activity,0,Safe
+26.66,15.1,4.53,23.82,52.63,54,9.81,0,1.74,Safe / Normal Activity,0,Safe
+37.2,2.8,7.7,25.23,65.34,37,62.32,0,2.79,Safe / Normal Activity,0,Safe
+17.68,16.99,2.82,19.58,39.09,27,4.07,0,0.66,Safe / Normal Activity,0,Safe
+22.75,27.55,8.35,36.94,81.28,13,67.98,0,3.62,Safe / Normal Activity,0,Safe
+31.55,21.25,16.3,66.84,87.73,41,61.9,0,5.53,Crowd Disturbance,1,Normal Alert
+38.79,41.67,17.9,12.83,72.03,12,65.09,0,3.66,Unusual Heat,1,Normal Alert
+30.78,0.0,3.91,26.74,25.0,10,60.02,0,3.06,Safe / Normal Activity,0,Safe
+31.41,18.15,8.22,17.9,62.51,14,63.27,0,4.57,Safe / Normal Activity,0,Safe
+24.96,6.46,11.11,29.07,65.27,14,46.51,0,3.45,Safe / Normal Activity,0,Safe
+33.89,32.31,8.83,4.03,63.57,48,20.63,0,4.62,Safe / Normal Activity,0,Safe
+39.32,82.64,6.87,26.22,92.36,15,54.67,0,7.29,Crowd Disturbance,1,Normal Alert
+30.07,20.57,4.39,37.8,113.34,30,39.99,0,1.54,Safe / Normal Activity,0,Safe
+25.93,10.65,5.94,45.11,77.21,20,13.83,0,2.43,Safe / Normal Activity,0,Safe
+30.01,78.96,38.33,11.35,73.16,46,89.69,1,4.64,Severe Heat Emergency,2,High-Priority Emergency
+24.66,21.42,1.55,4.42,70.82,25,56.45,0,1.31,Safe / Normal Activity,0,Safe
+33.8,0.77,11.01,39.17,72.18,14,21.67,0,0.56,Safe / Normal Activity,0,Safe
+28.27,49.61,16.55,24.96,84.14,45,92.22,0,7.34,Minor Smoke,1,Normal Alert
+29.39,25.8,0.85,20.42,60.49,19,46.88,0,3.09,Safe / Normal Activity,0,Safe
+26.12,8.64,10.39,26.55,47.76,20,3.13,0,3.26,Safe / Normal Activity,0,Safe
+26.01,10.26,12.34,6.97,70.18,48,59.55,0,0.8,Safe / Normal Activity,0,Safe
+34.02,55.36,16.07,54.01,82.13,47,84.7,0,5.12,Heavy Smoke,2,High-Priority Emergency
+26.02,34.36,6.93,1.02,66.44,29,35.5,0,5.14,Safe / Normal Activity,0,Safe
+21.65,22.61,6.8,29.81,83.19,29,26.83,0,1.55,Safe / Normal Activity,0,Safe
+27.82,3.07,1.87,22.67,65.79,2,47.95,0,4.42,Safe / Normal Activity,0,Safe
+25.24,4.76,6.3,10.09,77.5,22,34.97,0,0.99,Safe / Normal Activity,0,Safe
+25.98,45.35,4.3,23.9,86.55,46,31.42,0,2.63,Unusual Heat,1,Normal Alert
+35.88,25.06,4.32,29.49,43.37,14,40.1,0,2.35,Safe / Normal Activity,0,Safe
+28.24,16.78,5.35,18.15,55.46,25,46.22,0,0.73,Safe / Normal Activity,0,Safe
+22.01,19.99,11.89,23.98,55.65,25,15.26,0,2.78,Safe / Normal Activity,0,Safe
+30.31,35.0,8.31,74.55,70.97,40,71.62,0,5.26,Crowd Disturbance,1,Normal Alert
+19.23,18.53,5.82,23.69,61.46,25,64.75,0,1.99,Safe / Normal Activity,0,Safe
+39.67,46.66,15.22,104.83,83.21,57,52.24,0,4.05,Crowd Disturbance,1,Normal Alert
+30.56,20.07,7.61,19.21,56.14,20,52.49,0,0.99,Safe / Normal Activity,0,Safe
+30.81,9.49,7.88,19.5,81.36,17,41.57,0,1.19,Safe / Normal Activity,0,Safe
+34.49,33.2,8.4,37.77,90.68,26,71.46,0,1.45,Minor Smoke,1,Normal Alert
+25.11,49.31,8.45,47.18,54.59,39,79.39,0,3.34,Possible Gas Issue,1,Normal Alert
+29.27,20.8,0.0,48.2,67.87,30,35.13,0,3.51,Safe / Normal Activity,0,Safe
+42.78,75.42,22.16,77.95,74.05,69,51.23,1,14.46,Fire Emergency,2,High-Priority Emergency
+33.38,15.15,10.67,20.75,40.8,40,60.58,0,0.66,Safe / Normal Activity,0,Safe
+24.07,0.0,9.78,1.16,64.73,12,9.47,0,2.0,Safe / Normal Activity,0,Safe
+58.22,37.38,15.15,12.31,48.68,90,100.0,1,4.66,Severe Heat Emergency,2,High-Priority Emergency
+25.51,24.74,3.94,25.09,60.83,15,27.48,0,1.03,Safe / Normal Activity,0,Safe
+38.16,29.51,12.89,76.06,71.48,54,19.58,0,4.87,Crowd Disturbance,1,Normal Alert
+17.2,15.04,11.83,11.79,58.23,26,41.69,0,3.17,Safe / Normal Activity,0,Safe
+44.29,31.52,6.82,42.26,56.61,46,50.51,1,6.0,Possible Gas Issue,1,Normal Alert
+21.28,23.71,4.09,37.07,55.89,30,41.59,0,2.66,Safe / Normal Activity,0,Safe
+18.68,26.09,5.65,32.26,69.97,13,19.7,0,2.05,Safe / Normal Activity,0,Safe
+31.68,14.22,10.09,27.5,64.74,18,42.65,0,2.42,Safe / Normal Activity,0,Safe
+29.66,16.46,6.5,44.4,76.62,23,42.29,0,2.24,Safe / Normal Activity,0,Safe
+28.55,24.51,9.0,7.58,73.7,21,18.26,0,4.69,Safe / Normal Activity,0,Safe
+28.32,23.09,9.07,40.15,70.46,6,78.2,0,1.74,Safe / Normal Activity,0,Safe
+21.85,21.05,4.89,26.29,70.66,15,15.68,0,1.7,Safe / Normal Activity,0,Safe
+27.73,2.57,4.99,31.29,68.88,13,14.63,0,3.34,Safe / Normal Activity,0,Safe
+29.03,10.88,7.19,41.53,63.67,2,42.06,0,0.57,Safe / Normal Activity,0,Safe
+35.21,33.93,12.67,51.08,91.1,39,87.1,1,3.96,Minor Smoke,1,Normal Alert
+22.28,42.96,26.38,56.62,84.3,30,53.62,0,9.62,Possible Gas Issue,1,Normal Alert
+45.42,52.49,12.25,51.4,62.7,11,34.21,0,4.1,Minor Smoke,1,Normal Alert
+26.81,12.82,1.31,17.19,56.83,15,56.53,0,0.2,Safe / Normal Activity,0,Safe
+49.04,66.02,30.25,58.53,71.48,49,66.17,1,6.26,Critical Gas Leak,2,High-Priority Emergency
+26.73,40.75,5.22,29.23,69.4,31,43.79,0,2.65,Safe / Normal Activity,0,Safe
+24.12,19.26,14.11,37.74,64.95,32,20.62,0,3.92,Safe / Normal Activity,0,Safe
+34.44,8.29,4.07,50.36,62.25,44,42.14,0,2.04,Safe / Normal Activity,0,Safe
+41.6,62.44,4.75,39.6,87.73,35,48.15,0,7.45,Minor Smoke,1,Normal Alert
+28.06,3.92,2.42,23.61,61.41,10,23.68,0,3.18,Safe / Normal Activity,0,Safe
+17.16,5.88,0.0,27.45,37.56,22,70.79,0,0.2,Safe / Normal Activity,0,Safe
+52.28,43.23,9.49,69.16,110.11,63,60.7,0,0.2,Critical Gas Leak,2,High-Priority Emergency
+23.24,7.76,6.31,19.36,59.16,20,38.45,0,2.72,Safe / Normal Activity,0,Safe
+25.58,20.02,9.3,14.77,60.23,36,15.94,0,0.49,Safe / Normal Activity,0,Safe
+45.2,44.05,53.44,59.42,78.98,40,76.91,1,6.87,Severe Heat Emergency,2,High-Priority Emergency
+27.29,16.18,10.15,39.02,58.56,32,15.97,0,1.64,Safe / Normal Activity,0,Safe
+21.08,14.14,11.6,24.35,80.45,13,58.96,0,2.84,Safe / Normal Activity,0,Safe
+51.38,77.89,28.26,53.52,103.85,89,63.32,0,8.9,Critical Gas Leak,2,High-Priority Emergency
+45.36,61.25,32.23,60.59,83.16,47,100.0,1,3.35,Critical Gas Leak,2,High-Priority Emergency
+27.7,4.71,0.0,30.26,69.9,18,43.87,0,3.4,Safe / Normal Activity,0,Safe
+39.23,0.0,10.32,57.88,67.84,38,75.52,0,1.69,Minor Smoke,1,Normal Alert
+34.54,27.27,5.53,19.43,25.0,18,10.93,0,2.73,Safe / Normal Activity,0,Safe
+30.48,29.97,5.89,51.65,64.02,6,26.76,0,3.39,Safe / Normal Activity,0,Safe
+22.26,13.02,5.36,16.17,71.55,30,61.33,0,4.3,Safe / Normal Activity,0,Safe
+20.18,2.12,1.14,22.12,76.63,15,28.47,0,3.36,Safe / Normal Activity,0,Safe
+31.66,28.4,2.58,34.99,91.66,39,42.72,0,3.4,Unusual Heat,1,Normal Alert
+44.83,39.01,1.51,95.08,79.81,31,80.03,0,7.95,Crowd Disturbance,1,Normal Alert
+23.69,19.18,1.26,30.66,60.7,25,35.07,0,1.2,Safe / Normal Activity,0,Safe
+30.95,30.9,3.77,29.2,66.62,22,7.47,0,1.33,Safe / Normal Activity,0,Safe
+16.3,30.08,7.47,21.61,32.53,0,37.95,0,1.45,Safe / Normal Activity,0,Safe
+41.05,29.36,12.39,72.51,68.81,25,90.2,0,7.42,Possible Gas Issue,1,Normal Alert
+34.03,18.74,7.74,23.71,54.43,22,29.15,0,2.2,Safe / Normal Activity,0,Safe
+19.52,0.0,0.0,30.03,46.03,26,40.73,0,3.16,Safe / Normal Activity,0,Safe
+27.79,0.0,4.71,27.53,82.32,42,10.74,0,0.2,Safe / Normal Activity,0,Safe
+34.6,26.13,7.4,24.16,78.95,37,61.16,0,1.98,Safe / Normal Activity,0,Safe
+40.37,52.69,10.67,39.62,91.0,67,42.51,0,5.64,Minor Smoke,1,Normal Alert
+38.41,28.6,25.18,55.86,81.97,69,49.12,0,1.79,Possible Gas Issue,1,Normal Alert
+19.56,23.48,7.68,18.4,59.69,31,15.28,0,3.55,Safe / Normal Activity,0,Safe
+22.52,50.33,0.28,44.53,56.55,63,33.54,1,5.12,Minor Smoke,1,Normal Alert
+44.45,32.4,31.84,22.21,69.35,36,91.04,0,10.83,Critical Gas Leak,2,High-Priority Emergency
+15.0,19.91,11.88,38.04,67.02,8,27.49,0,0.37,Safe / Normal Activity,0,Safe
+21.26,25.43,4.28,6.64,80.86,28,30.36,0,5.57,Safe / Normal Activity,0,Safe
+26.88,29.97,9.57,15.23,54.33,39,67.25,0,3.32,Safe / Normal Activity,0,Safe
+34.15,19.4,13.83,18.66,67.0,23,48.0,0,5.23,Crowd Disturbance,1,Normal Alert
+21.92,31.73,7.97,45.33,58.92,15,73.17,0,2.23,Safe / Normal Activity,0,Safe
+30.6,3.62,8.85,29.58,77.5,33,64.0,0,1.21,Safe / Normal Activity,0,Safe
+37.55,0.73,0.29,29.35,82.12,24,57.99,0,1.75,Safe / Normal Activity,0,Safe
+28.39,80.39,4.89,40.05,97.25,73,71.82,0,9.02,Fire Emergency,2,High-Priority Emergency
+21.53,21.65,8.45,33.62,65.06,8,51.81,0,1.78,Safe / Normal Activity,0,Safe
+32.94,25.58,18.22,17.22,59.1,31,94.5,0,0.86,Crowd Disturbance,1,Normal Alert
+33.76,29.49,1.3,0.0,60.06,35,69.83,0,5.13,Safe / Normal Activity,0,Safe
+24.49,56.27,19.58,100.81,111.37,71,47.99,0,8.93,Severe Heat Emergency,2,High-Priority Emergency
+16.66,26.38,5.28,5.29,58.29,26,36.34,0,5.33,Safe / Normal Activity,0,Safe
+32.02,12.65,4.82,26.67,46.31,26,11.39,0,0.75,Safe / Normal Activity,0,Safe
+27.17,67.62,12.41,51.36,43.83,26,69.15,0,0.2,Crowd Disturbance,1,Normal Alert
+51.28,71.7,41.69,55.62,47.64,26,53.06,1,0.2,Fire Emergency,2,High-Priority Emergency
+34.13,16.07,9.59,0.66,40.17,39,40.02,0,0.82,Safe / Normal Activity,0,Safe
+27.5,4.54,10.75,57.46,67.29,14,0.0,0,4.83,Safe / Normal Activity,0,Safe
+27.8,31.32,16.59,78.13,71.01,30,60.58,1,3.42,Minor Smoke,1,Normal Alert
+37.88,41.34,26.92,56.22,91.27,18,70.55,0,5.75,Possible Gas Issue,1,Normal Alert
+27.25,40.07,11.71,37.3,70.94,43,9.26,0,1.01,Safe / Normal Activity,0,Safe
+24.18,21.61,10.93,7.0,54.34,23,34.27,0,7.65,Safe / Normal Activity,0,Safe
+37.94,24.77,2.92,40.17,59.9,45,68.94,0,9.56,Unusual Heat,1,Normal Alert
+29.85,35.85,16.47,65.73,93.16,45,82.12,1,7.0,Possible Gas Issue,1,Normal Alert
+45.59,7.97,5.65,64.29,34.23,46,82.32,0,3.77,Possible Gas Issue,1,Normal Alert
+21.63,10.78,4.03,13.12,51.41,19,32.34,0,1.91,Safe / Normal Activity,0,Safe
+28.72,10.23,3.64,0.0,40.57,8,41.67,0,0.2,Safe / Normal Activity,0,Safe
+42.96,35.3,21.56,98.89,79.96,48,100.0,1,4.87,Heavy Smoke,2,High-Priority Emergency
+29.21,45.57,15.61,18.29,76.63,35,70.98,0,5.95,Possible Gas Issue,1,Normal Alert
+32.88,54.8,5.89,19.27,26.07,36,40.93,0,0.2,Unusual Heat,1,Normal Alert
+29.35,5.7,7.64,14.76,60.57,29,57.06,0,1.28,Safe / Normal Activity,0,Safe
+24.71,22.37,1.91,19.69,55.98,21,17.81,0,3.28,Safe / Normal Activity,0,Safe
+41.75,5.74,14.58,69.75,82.94,29,38.24,0,5.39,Unusual Heat,1,Normal Alert
+27.48,14.2,1.67,27.49,67.12,24,40.22,0,1.56,Safe / Normal Activity,0,Safe
+63.1,48.59,39.42,102.83,82.73,87,84.38,1,6.1,Severe Heat Emergency,2,High-Priority Emergency
+31.62,5.42,5.44,24.65,54.4,50,42.67,0,4.29,Safe / Normal Activity,0,Safe
+32.44,56.13,0.33,37.47,89.74,65,41.99,0,6.16,Unusual Heat,1,Normal Alert
+42.15,58.36,36.39,58.4,52.62,19,75.2,0,6.35,Critical Gas Leak,2,High-Priority Emergency
+35.2,37.65,1.77,25.34,48.51,18,74.07,0,2.07,Safe / Normal Activity,0,Safe
+22.29,27.46,0.0,16.24,60.4,14,55.27,0,0.38,Safe / Normal Activity,0,Safe
+37.47,1.77,11.15,23.95,54.45,17,37.33,0,1.12,Safe / Normal Activity,0,Safe
+25.83,8.29,1.14,11.37,46.05,17,46.65,0,5.46,Safe / Normal Activity,0,Safe
+15.95,20.69,6.03,32.6,70.31,20,41.45,0,3.42,Safe / Normal Activity,0,Safe
+17.61,23.77,5.91,15.67,57.98,20,63.95,0,4.33,Safe / Normal Activity,0,Safe
+42.78,77.23,33.75,48.87,65.31,48,91.15,1,4.99,Heavy Smoke,2,High-Priority Emergency
+29.86,16.42,11.67,3.65,91.58,4,0.0,0,0.8,Safe / Normal Activity,0,Safe
+26.81,15.26,5.22,11.05,66.62,18,60.07,0,1.05,Safe / Normal Activity,0,Safe
+18.56,14.28,0.92,4.45,67.86,1,66.24,0,2.43,Safe / Normal Activity,0,Safe
+21.83,23.64,5.99,13.08,63.6,2,5.29,0,3.02,Safe / Normal Activity,0,Safe
+26.98,26.49,2.32,29.47,59.52,11,45.71,0,1.56,Safe / Normal Activity,0,Safe
+27.21,14.7,5.39,16.64,44.04,23,21.95,0,2.14,Safe / Normal Activity,0,Safe
+40.14,41.34,8.28,35.0,83.54,0,76.54,0,1.4,Minor Smoke,1,Normal Alert
+37.85,32.77,8.83,26.64,36.79,24,27.02,0,2.73,Safe / Normal Activity,0,Safe
+43.82,82.26,0.0,73.88,72.18,40,81.09,1,7.83,Fire Emergency,2,High-Priority Emergency
+25.94,9.39,4.12,19.99,51.02,22,32.44,0,4.88,Safe / Normal Activity,0,Safe
+29.08,12.17,6.58,8.65,55.32,18,13.06,0,1.74,Safe / Normal Activity,0,Safe
+32.51,27.76,32.71,33.09,42.97,8,75.7,0,3.16,Unusual Heat,1,Normal Alert
+57.16,60.02,21.61,76.52,103.79,58,61.46,0,13.64,Severe Heat Emergency,2,High-Priority Emergency
+28.26,24.69,8.16,25.55,62.41,33,52.37,0,1.46,Safe / Normal Activity,0,Safe
+28.93,15.33,4.77,56.82,40.99,34,20.75,0,6.35,Safe / Normal Activity,0,Safe
+22.19,8.76,5.93,10.99,72.49,16,51.08,0,0.2,Safe / Normal Activity,0,Safe
+25.86,0.31,12.07,2.11,47.51,27,26.27,0,5.56,Safe / Normal Activity,0,Safe
+21.99,14.04,5.16,31.23,67.01,12,31.48,0,3.62,Safe / Normal Activity,0,Safe
+21.16,36.18,2.96,21.89,45.92,6,20.51,0,1.88,Safe / Normal Activity,0,Safe
+22.11,22.96,2.87,10.38,55.89,34,42.3,0,0.35,Safe / Normal Activity,0,Safe
+21.29,3.22,11.23,28.9,49.8,15,21.49,0,3.19,Safe / Normal Activity,0,Safe
+45.84,100.0,41.25,104.74,100.08,39,86.96,1,12.52,Severe Heat Emergency,2,High-Priority Emergency
+36.84,40.29,24.18,16.89,101.57,34,28.06,0,0.84,Unusual Heat,1,Normal Alert
+30.27,5.62,6.67,36.74,52.26,19,11.93,0,6.36,Safe / Normal Activity,0,Safe
+30.89,13.35,3.55,21.45,62.69,17,48.6,0,1.06,Safe / Normal Activity,0,Safe
+28.85,4.31,8.92,21.81,37.24,23,4.3,0,2.13,Safe / Normal Activity,0,Safe
+36.26,26.71,1.76,0.0,51.18,7,74.51,0,3.9,Safe / Normal Activity,0,Safe
+33.0,34.77,11.77,70.24,78.67,18,94.7,1,3.71,Unusual Heat,1,Normal Alert
+39.44,39.82,12.7,38.54,65.37,30,69.19,0,4.25,Crowd Disturbance,1,Normal Alert
+59.44,62.34,18.45,76.96,63.53,54,44.16,1,0.84,Severe Heat Emergency,2,High-Priority Emergency
+66.71,61.54,33.37,120.0,95.27,31,62.45,1,5.27,Fire Emergency,2,High-Priority Emergency
+42.86,84.69,38.34,30.83,73.27,38,86.98,1,15.95,Fire Emergency,2,High-Priority Emergency
+44.43,76.36,16.13,68.48,80.53,0,77.46,0,11.37,Critical Gas Leak,2,High-Priority Emergency
+27.03,3.45,4.97,0.0,45.26,30,33.05,0,0.2,Safe / Normal Activity,0,Safe
+25.79,11.24,9.82,30.75,69.35,40,30.64,0,0.93,Safe / Normal Activity,0,Safe
+21.6,23.53,0.0,29.45,62.32,35,36.81,0,3.26,Safe / Normal Activity,0,Safe
+23.69,8.94,7.9,21.62,55.7,21,69.89,0,1.79,Safe / Normal Activity,0,Safe
+18.46,15.58,8.63,32.87,62.41,33,52.62,0,3.98,Safe / Normal Activity,0,Safe
+45.99,34.95,2.71,60.94,85.71,65,87.19,0,6.29,Possible Gas Issue,1,Normal Alert
+20.08,19.08,3.79,24.75,61.71,28,36.05,0,0.2,Safe / Normal Activity,0,Safe
+27.95,28.02,13.48,31.52,82.9,24,38.06,0,2.5,Safe / Normal Activity,0,Safe
+23.09,10.85,1.55,28.87,61.15,18,26.67,0,3.67,Safe / Normal Activity,0,Safe
+21.35,3.12,9.82,4.12,68.12,41,70.38,0,2.87,Safe / Normal Activity,0,Safe
+30.69,23.09,15.01,0.0,54.96,32,31.25,0,2.44,Safe / Normal Activity,0,Safe
+35.92,33.06,8.34,35.51,78.07,23,79.97,0,7.44,Crowd Disturbance,1,Normal Alert
+21.36,0.0,5.98,59.68,77.46,15,46.49,0,0.45,Safe / Normal Activity,0,Safe
+44.59,34.99,11.37,47.5,91.17,23,21.45,0,0.2,Possible Gas Issue,1,Normal Alert
+32.93,21.79,10.17,30.06,92.33,15,45.96,0,3.94,Safe / Normal Activity,0,Safe
+26.69,33.19,3.88,40.29,68.71,22,48.85,0,3.03,Safe / Normal Activity,0,Safe
+25.97,8.98,4.66,0.12,71.95,7,33.65,0,3.76,Safe / Normal Activity,0,Safe
+22.58,36.35,15.22,48.09,94.16,22,13.92,0,3.51,Possible Gas Issue,1,Normal Alert
+22.69,35.15,20.61,20.47,109.04,22,60.91,0,4.9,Crowd Disturbance,1,Normal Alert
+19.55,44.26,4.02,15.57,73.6,44,60.53,0,2.82,Safe / Normal Activity,0,Safe
+28.3,82.94,3.74,51.92,87.94,59,69.78,0,9.61,Fire Emergency,2,High-Priority Emergency
+30.22,3.71,12.8,11.56,83.59,46,48.25,0,0.2,Safe / Normal Activity,0,Safe
+46.85,87.15,37.02,41.51,82.71,0,83.26,0,10.92,Critical Gas Leak,2,High-Priority Emergency
+24.63,21.21,5.13,25.14,46.09,29,5.18,0,2.32,Safe / Normal Activity,0,Safe
+25.94,18.72,3.4,46.51,63.09,25,41.94,0,3.36,Safe / Normal Activity,0,Safe
+38.09,51.25,0.0,9.48,72.86,33,71.76,0,6.2,Minor Smoke,1,Normal Alert
+20.77,15.89,0.64,27.03,36.58,26,8.62,0,3.84,Safe / Normal Activity,0,Safe
+28.14,0.0,3.31,2.48,38.97,23,49.21,0,3.4,Safe / Normal Activity,0,Safe
+26.94,13.27,1.71,16.28,43.82,12,39.78,0,7.1,Safe / Normal Activity,0,Safe
+20.27,14.75,0.31,16.96,56.49,32,29.01,0,1.85,Safe / Normal Activity,0,Safe
+25.19,26.26,9.33,48.55,82.38,33,53.45,0,6.1,Crowd Disturbance,1,Normal Alert
+40.23,61.7,10.68,25.51,73.75,43,52.06,0,6.15,Minor Smoke,1,Normal Alert
+38.48,31.77,0.42,56.58,62.49,41,62.33,0,4.99,Possible Gas Issue,1,Normal Alert
+30.19,17.17,0.0,38.6,66.34,8,22.24,0,3.52,Safe / Normal Activity,0,Safe
+24.56,24.26,0.0,8.45,34.16,11,68.16,0,2.85,Safe / Normal Activity,0,Safe
+23.81,13.78,7.89,1.68,53.56,39,17.09,0,2.52,Safe / Normal Activity,0,Safe
+28.42,9.75,6.31,29.9,86.5,20,37.17,0,1.68,Safe / Normal Activity,0,Safe
+20.38,18.5,10.3,26.69,59.74,5,36.83,0,0.65,Safe / Normal Activity,0,Safe
+46.31,55.86,15.93,78.2,95.98,59,55.46,1,8.14,Fire Emergency,2,High-Priority Emergency
+43.43,100.0,49.5,120.0,71.08,62,92.42,0,6.17,Fire Emergency,2,High-Priority Emergency
+35.0,40.31,1.24,60.54,70.09,45,64.17,0,4.69,Crowd Disturbance,1,Normal Alert
+30.93,14.01,0.18,29.4,50.48,6,17.56,0,2.36,Safe / Normal Activity,0,Safe
+16.34,12.16,10.68,16.13,58.85,35,53.91,0,0.2,Safe / Normal Activity,0,Safe
+35.67,22.36,15.85,11.83,38.08,22,32.49,0,4.11,Safe / Normal Activity,0,Safe
+26.56,13.59,8.09,18.67,56.58,34,63.2,0,2.25,Safe / Normal Activity,0,Safe
+16.3,14.52,2.97,20.31,52.28,22,17.21,0,4.33,Safe / Normal Activity,0,Safe
+22.15,16.0,9.82,33.89,71.33,26,52.48,0,3.14,Safe / Normal Activity,0,Safe
+17.81,10.71,8.79,13.85,82.06,21,39.7,0,2.23,Safe / Normal Activity,0,Safe
+50.94,82.88,5.86,64.87,102.92,51,100.0,1,1.89,Critical Gas Leak,2,High-Priority Emergency
+31.33,14.07,7.6,31.69,50.42,14,41.79,0,0.75,Safe / Normal Activity,0,Safe
+46.82,58.87,30.43,71.78,78.17,78,64.21,1,2.21,Severe Heat Emergency,2,High-Priority Emergency
+23.43,21.16,7.28,29.79,68.16,47,23.04,0,0.92,Safe / Normal Activity,0,Safe
+23.48,6.26,6.37,38.28,81.02,28,80.83,0,0.2,Safe / Normal Activity,0,Safe
+32.27,0.0,2.98,28.76,59.67,20,14.38,0,4.01,Safe / Normal Activity,0,Safe
+27.1,7.7,1.01,11.48,66.1,26,21.99,0,3.13,Safe / Normal Activity,0,Safe
+22.51,22.89,2.98,9.16,62.99,50,52.98,0,3.04,Safe / Normal Activity,0,Safe
+18.24,4.78,0.0,44.49,80.86,27,40.7,0,2.17,Safe / Normal Activity,0,Safe
+68.72,66.76,17.66,28.05,112.85,47,39.87,1,3.21,Fire Emergency,2,High-Priority Emergency
+28.04,10.97,9.11,23.02,74.81,18,98.91,0,1.15,Safe / Normal Activity,0,Safe
+21.87,13.89,0.0,25.83,36.23,24,10.97,0,3.41,Safe / Normal Activity,0,Safe
+38.52,5.22,5.4,12.59,49.69,13,54.48,0,5.87,Safe / Normal Activity,0,Safe
+29.08,5.9,4.53,11.58,71.4,2,11.18,0,3.52,Safe / Normal Activity,0,Safe
+33.17,29.81,8.12,20.92,71.33,8,1.11,0,0.99,Safe / Normal Activity,0,Safe
+26.67,17.2,6.99,34.19,71.82,24,29.16,0,1.61,Safe / Normal Activity,0,Safe
+46.84,100.0,27.37,83.26,75.3,72,90.21,0,7.99,Severe Heat Emergency,2,High-Priority Emergency
+42.24,60.89,13.98,44.59,87.42,21,43.2,0,0.62,Minor Smoke,1,Normal Alert
+28.26,29.51,10.51,47.83,68.85,36,57.69,0,2.94,Minor Smoke,1,Normal Alert
+32.41,0.0,5.18,15.9,66.44,5,28.0,0,4.11,Safe / Normal Activity,0,Safe
+28.66,4.17,4.05,33.52,45.39,21,37.82,0,6.54,Safe / Normal Activity,0,Safe
+44.46,73.45,15.04,85.19,103.67,35,73.91,0,3.64,Severe Heat Emergency,2,High-Priority Emergency
+24.23,0.0,13.06,11.57,57.8,42,35.17,0,0.66,Safe / Normal Activity,0,Safe
+18.83,14.34,7.45,25.97,54.74,22,1.26,0,2.74,Safe / Normal Activity,0,Safe
+36.87,16.07,2.23,21.34,56.74,27,38.54,0,0.2,Safe / Normal Activity,0,Safe
+36.84,62.9,12.56,64.08,89.19,42,41.08,0,7.7,Crowd Disturbance,1,Normal Alert
+38.71,51.47,8.76,42.75,72.22,36,84.7,0,4.87,Possible Gas Issue,1,Normal Alert
+25.4,50.09,6.93,39.5,101.73,55,71.64,0,4.4,Unusual Heat,1,Normal Alert
+49.0,52.44,6.75,17.6,82.5,36,27.56,0,4.15,Crowd Disturbance,1,Normal Alert
+29.21,9.92,8.53,15.53,55.37,16,60.62,0,4.56,Safe / Normal Activity,0,Safe
+68.62,48.49,0.0,98.11,81.84,29,63.23,0,11.45,Severe Heat Emergency,2,High-Priority Emergency
+27.8,28.84,7.98,17.98,55.93,29,54.41,0,2.11,Safe / Normal Activity,0,Safe
+36.23,48.51,9.31,23.17,61.91,33,73.57,0,1.55,Minor Smoke,1,Normal Alert
+25.21,23.95,3.89,16.41,42.64,28,34.77,0,2.11,Safe / Normal Activity,0,Safe
+61.4,42.9,14.06,103.31,89.36,64,83.04,0,6.19,Heavy Smoke,2,High-Priority Emergency
+31.16,27.62,10.34,6.59,77.96,18,22.9,0,3.75,Safe / Normal Activity,0,Safe
+29.7,13.45,9.35,23.82,53.55,14,46.2,0,0.44,Safe / Normal Activity,0,Safe
+31.24,11.2,12.37,3.76,58.65,14,18.49,0,5.16,Safe / Normal Activity,0,Safe
+27.72,8.08,0.0,0.0,54.03,14,33.52,0,2.36,Safe / Normal Activity,0,Safe
+32.14,32.23,0.0,11.58,49.89,24,13.6,0,2.57,Safe / Normal Activity,0,Safe
+34.14,66.67,11.89,55.41,62.74,12,45.57,0,6.32,Crowd Disturbance,1,Normal Alert
+22.12,25.11,0.57,1.63,53.73,45,75.96,0,1.49,Safe / Normal Activity,0,Safe
+30.96,65.64,27.11,91.74,104.39,44,86.12,1,9.02,Severe Heat Emergency,2,High-Priority Emergency
+24.46,20.59,7.51,22.89,71.33,3,16.7,0,0.34,Safe / Normal Activity,0,Safe
+32.15,31.26,21.17,49.99,89.44,42,47.22,0,6.55,Minor Smoke,1,Normal Alert
+26.34,0.0,0.0,17.76,30.61,44,49.94,0,0.84,Safe / Normal Activity,0,Safe
+42.2,17.95,4.87,30.92,75.71,48,85.24,0,4.8,Unusual Heat,1,Normal Alert
+32.1,9.29,0.0,13.28,50.52,14,18.81,0,3.43,Safe / Normal Activity,0,Safe
+35.58,0.0,0.85,11.71,70.95,20,23.52,0,3.93,Safe / Normal Activity,0,Safe
+48.79,46.86,28.51,66.17,83.66,37,93.5,0,10.61,Severe Heat Emergency,2,High-Priority Emergency
+29.29,10.94,10.16,28.05,94.84,26,51.95,0,2.35,Safe / Normal Activity,0,Safe
+25.71,18.94,8.08,37.01,65.02,16,31.46,0,4.99,Safe / Normal Activity,0,Safe
+31.21,55.41,13.94,53.38,72.24,23,37.69,0,5.07,Crowd Disturbance,1,Normal Alert
+42.88,62.93,9.12,55.89,74.68,16,54.92,1,3.6,Possible Gas Issue,1,Normal Alert
+26.13,37.12,0.0,28.52,57.71,14,32.44,0,3.59,Safe / Normal Activity,0,Safe
+27.93,26.93,11.08,32.61,53.9,28,47.98,0,0.2,Safe / Normal Activity,0,Safe
+26.75,65.47,28.87,42.46,106.83,53,100.0,1,3.89,Severe Heat Emergency,2,High-Priority Emergency
+38.21,50.06,8.17,16.72,75.5,19,83.66,0,8.94,Possible Gas Issue,1,Normal Alert
+50.48,94.02,13.43,68.02,80.75,33,79.89,0,6.94,Critical Gas Leak,2,High-Priority Emergency
+29.58,13.85,2.0,35.39,70.49,10,12.12,0,3.32,Safe / Normal Activity,0,Safe
+36.93,52.22,9.72,27.58,87.78,27,63.1,0,3.43,Minor Smoke,1,Normal Alert
+23.42,24.15,0.0,14.73,58.77,43,14.62,0,4.09,Safe / Normal Activity,0,Safe
+41.06,56.16,26.84,34.96,79.81,78,85.45,0,7.66,Critical Gas Leak,2,High-Priority Emergency
+29.9,23.72,3.77,41.95,78.11,30,21.14,0,2.01,Safe / Normal Activity,0,Safe
+35.43,6.17,15.46,74.04,82.65,25,41.52,0,4.43,Minor Smoke,1,Normal Alert
+30.01,26.92,1.47,24.88,56.27,21,55.29,0,4.6,Safe / Normal Activity,0,Safe
+29.13,14.9,4.99,0.0,78.42,18,48.12,0,0.63,Safe / Normal Activity,0,Safe
+28.54,65.85,14.03,34.81,72.1,57,79.55,0,8.72,Unusual Heat,1,Normal Alert
+31.83,14.48,1.23,35.7,67.19,5,33.36,0,2.52,Safe / Normal Activity,0,Safe
+40.84,42.82,48.04,93.19,113.33,55,100.0,1,7.82,Heavy Smoke,2,High-Priority Emergency
+33.91,19.19,3.5,22.83,39.21,0,54.63,0,2.11,Safe / Normal Activity,0,Safe
+40.82,63.15,15.74,87.49,81.54,42,64.29,0,7.09,Minor Smoke,1,Normal Alert
+15.0,10.14,6.09,11.73,55.13,44,60.08,0,1.8,Safe / Normal Activity,0,Safe
+20.61,23.05,5.0,0.0,62.31,27,57.26,0,1.94,Safe / Normal Activity,0,Safe
+36.93,16.07,8.88,14.99,69.97,5,28.76,0,1.59,Safe / Normal Activity,0,Safe
+33.25,9.88,8.87,41.72,60.64,34,48.62,0,3.63,Safe / Normal Activity,0,Safe
+36.2,9.63,2.16,8.77,73.93,36,27.26,0,1.49,Safe / Normal Activity,0,Safe
+38.83,36.8,13.26,36.01,89.21,43,71.9,0,6.06,Possible Gas Issue,1,Normal Alert
+28.5,44.72,17.54,71.26,80.24,20,41.15,0,5.25,Unusual Heat,1,Normal Alert
+34.14,17.77,4.09,2.93,27.21,35,100.0,0,2.45,Crowd Disturbance,1,Normal Alert
+19.68,2.88,1.21,19.07,58.63,25,51.26,0,2.55,Safe / Normal Activity,0,Safe
+21.53,2.56,0.0,30.44,56.61,0,36.74,0,4.99,Safe / Normal Activity,0,Safe
+24.11,22.82,10.36,9.59,61.99,29,40.31,0,0.51,Safe / Normal Activity,0,Safe
+38.88,29.25,14.45,66.32,84.03,43,73.13,0,8.39,Minor Smoke,1,Normal Alert
+34.76,40.95,18.52,36.7,53.97,46,54.47,0,6.0,Unusual Heat,1,Normal Alert
+18.85,26.22,0.0,16.8,84.93,18,39.8,0,0.2,Safe / Normal Activity,0,Safe
+35.5,39.16,25.04,21.05,68.28,20,36.24,0,4.86,Possible Gas Issue,1,Normal Alert
+24.22,10.82,3.75,15.84,44.56,19,30.82,0,2.73,Safe / Normal Activity,0,Safe
+28.2,10.43,5.42,50.06,88.57,9,19.71,0,4.09,Safe / Normal Activity,0,Safe
+25.01,18.4,13.99,21.86,70.18,28,26.24,0,1.23,Safe / Normal Activity,0,Safe
+33.7,10.13,4.09,7.85,48.98,17,0.0,0,1.74,Safe / Normal Activity,0,Safe
+40.53,45.61,7.05,37.37,70.48,64,40.91,0,2.09,Possible Gas Issue,1,Normal Alert
+52.38,68.26,41.68,98.04,130.0,47,69.79,1,9.53,Severe Heat Emergency,2,High-Priority Emergency
+27.59,22.51,1.44,26.57,63.67,24,24.33,0,5.58,Safe / Normal Activity,0,Safe
+21.45,23.2,0.0,30.69,36.69,16,11.74,0,3.76,Safe / Normal Activity,0,Safe
+22.0,31.53,8.41,80.2,80.48,16,48.63,0,6.51,Unusual Heat,1,Normal Alert
+46.06,59.06,18.01,29.24,75.8,81,67.38,1,7.75,Critical Gas Leak,2,High-Priority Emergency
+38.09,16.09,10.38,14.22,57.63,22,22.52,0,3.83,Safe / Normal Activity,0,Safe
+23.0,16.0,8.83,11.28,75.24,23,34.7,0,1.94,Safe / Normal Activity,0,Safe
+37.6,69.42,15.98,70.65,55.86,35,85.86,0,7.12,Possible Gas Issue,1,Normal Alert
+28.37,12.71,2.05,45.08,69.21,26,29.74,0,2.75,Safe / Normal Activity,0,Safe
+53.4,79.42,14.83,35.34,89.52,9,68.53,1,8.87,Critical Gas Leak,2,High-Priority Emergency
+36.91,0.0,15.1,18.97,65.52,5,57.94,0,2.41,Safe / Normal Activity,0,Safe
+21.44,39.33,17.92,42.04,91.61,57,44.9,0,4.91,Possible Gas Issue,1,Normal Alert
+27.49,16.69,0.0,19.59,43.27,42,69.72,0,2.14,Safe / Normal Activity,0,Safe
+21.96,9.42,13.77,13.0,30.38,34,68.01,0,4.06,Safe / Normal Activity,0,Safe
+43.41,38.95,0.0,47.59,83.32,35,55.02,0,2.4,Unusual Heat,1,Normal Alert
+36.19,34.74,5.99,25.66,48.25,30,73.19,0,3.2,Safe / Normal Activity,0,Safe
+29.7,21.28,12.57,48.47,57.96,30,39.68,0,2.91,Safe / Normal Activity,0,Safe
+56.39,68.56,13.54,60.41,79.79,30,81.27,1,10.43,Fire Emergency,2,High-Priority Emergency
+30.96,65.98,10.85,47.63,71.37,57,84.78,0,4.86,Minor Smoke,1,Normal Alert
+22.64,35.25,9.43,16.06,79.51,16,66.21,0,1.12,Safe / Normal Activity,0,Safe
+29.91,23.82,16.46,12.35,79.62,22,13.17,0,2.5,Safe / Normal Activity,0,Safe
+21.71,19.12,9.83,25.1,53.96,20,37.91,0,4.16,Safe / Normal Activity,0,Safe
+36.9,12.75,8.06,50.49,90.86,60,98.04,1,6.63,Possible Gas Issue,1,Normal Alert
+29.15,5.25,5.75,61.39,64.95,12,46.16,0,1.06,Safe / Normal Activity,0,Safe
+37.52,26.67,7.38,16.91,56.96,41,44.13,0,6.13,Safe / Normal Activity,0,Safe
+51.01,71.21,39.13,83.64,101.44,39,50.4,0,11.88,Fire Emergency,2,High-Priority Emergency
+41.87,48.71,40.87,60.57,80.61,40,73.7,1,5.57,Severe Heat Emergency,2,High-Priority Emergency
+36.56,58.84,24.88,78.76,87.72,34,45.29,0,6.21,Crowd Disturbance,1,Normal Alert
+58.04,77.08,23.42,91.67,110.7,69,74.36,0,4.56,Severe Heat Emergency,2,High-Priority Emergency
+36.8,47.36,2.1,36.42,77.65,21,68.55,0,3.06,Minor Smoke,1,Normal Alert
+35.37,45.06,6.06,41.91,81.02,23,22.53,0,3.8,Possible Gas Issue,1,Normal Alert
+32.57,67.97,2.35,41.07,105.98,44,50.91,0,5.83,Possible Gas Issue,1,Normal Alert
+35.48,10.69,2.97,4.08,62.34,5,28.72,0,4.11,Safe / Normal Activity,0,Safe
+24.46,19.97,0.0,23.71,45.36,17,82.22,0,2.31,Safe / Normal Activity,0,Safe
+42.99,6.85,10.66,2.08,57.83,6,43.15,0,2.04,Safe / Normal Activity,0,Safe
+42.64,27.79,14.29,64.23,51.75,24,60.18,0,8.21,Minor Smoke,1,Normal Alert
+25.42,7.27,7.32,18.14,57.44,21,49.03,0,1.34,Safe / Normal Activity,0,Safe
+29.16,0.0,3.59,7.03,76.64,17,26.79,1,1.61,Safe / Normal Activity,0,Safe
+24.99,16.97,4.31,16.42,47.87,8,39.21,0,0.36,Safe / Normal Activity,0,Safe
+30.8,23.64,9.9,25.9,69.28,48,31.97,0,0.2,Safe / Normal Activity,0,Safe
+35.78,33.69,2.3,12.54,56.79,37,12.25,0,5.75,Safe / Normal Activity,0,Safe
+37.19,46.18,10.56,56.78,51.29,22,61.31,0,4.07,Unusual Heat,1,Normal Alert
+32.45,32.55,8.14,26.09,46.67,40,52.4,0,4.95,Possible Gas Issue,1,Normal Alert
+29.63,11.39,0.0,30.88,44.97,23,21.83,0,4.23,Safe / Normal Activity,0,Safe
+29.66,27.3,7.32,27.15,37.85,18,33.5,0,1.74,Safe / Normal Activity,0,Safe
+28.32,18.26,10.63,20.26,71.76,2,5.72,0,3.68,Safe / Normal Activity,0,Safe
+39.72,54.14,7.26,35.17,72.18,63,96.26,0,5.59,Possible Gas Issue,1,Normal Alert
+44.35,33.39,9.26,44.29,59.32,34,34.42,0,6.1,Crowd Disturbance,1,Normal Alert
+18.85,35.02,0.0,6.42,52.93,38,42.51,0,1.31,Safe / Normal Activity,0,Safe
+25.37,58.39,17.59,75.4,79.95,0,31.62,0,3.91,Minor Smoke,1,Normal Alert
+24.21,4.97,9.79,27.93,67.52,14,41.53,0,2.31,Safe / Normal Activity,0,Safe
+15.0,0.32,4.71,52.88,37.59,7,42.34,0,2.8,Safe / Normal Activity,0,Safe
+56.72,56.91,18.36,74.05,76.15,66,42.87,0,7.43,Severe Heat Emergency,2,High-Priority Emergency
+18.79,6.2,10.79,19.29,64.62,11,37.42,0,2.65,Safe / Normal Activity,0,Safe
+28.85,19.21,2.39,17.55,67.98,19,32.25,0,1.07,Safe / Normal Activity,0,Safe
+32.4,4.45,8.62,31.21,54.37,7,0.0,0,3.29,Safe / Normal Activity,0,Safe
+21.61,16.97,0.09,18.96,46.09,21,27.98,0,1.51,Safe / Normal Activity,0,Safe
+38.72,36.41,39.08,63.0,48.36,35,93.29,0,12.09,Heavy Smoke,2,High-Priority Emergency
+39.58,74.57,38.48,83.25,63.26,27,98.4,0,10.42,Critical Gas Leak,2,High-Priority Emergency
+27.71,2.14,3.57,10.62,63.93,23,47.25,0,1.1,Safe / Normal Activity,0,Safe
+27.91,5.7,10.31,20.51,56.76,28,36.47,0,0.91,Safe / Normal Activity,0,Safe
+42.4,39.51,0.23,54.39,65.61,21,33.81,0,0.2,Crowd Disturbance,1,Normal Alert
+22.81,17.2,12.31,29.2,50.0,40,10.9,0,3.23,Safe / Normal Activity,0,Safe
+39.31,78.65,18.32,89.38,54.89,57,66.76,1,7.16,Fire Emergency,2,High-Priority Emergency
+38.55,35.7,17.51,63.68,81.08,0,37.38,0,1.79,Minor Smoke,1,Normal Alert
+31.41,23.06,3.1,0.0,53.6,47,20.73,0,1.0,Safe / Normal Activity,0,Safe
+43.5,33.63,7.62,76.68,82.69,20,32.08,0,4.84,Unusual Heat,1,Normal Alert
+18.08,4.84,1.04,0.0,46.71,11,28.75,0,2.1,Safe / Normal Activity,0,Safe
+26.16,21.09,5.05,27.2,64.65,23,93.33,0,0.88,Safe / Normal Activity,0,Safe
+28.85,8.08,7.79,4.12,46.6,26,57.95,0,3.78,Safe / Normal Activity,0,Safe
+28.87,17.72,3.99,32.57,74.32,21,35.66,0,2.47,Safe / Normal Activity,0,Safe
+35.53,46.72,11.32,29.77,79.67,36,99.53,0,3.37,Possible Gas Issue,1,Normal Alert
+40.1,43.54,21.17,35.99,76.83,35,60.29,0,6.18,Minor Smoke,1,Normal Alert
+63.14,63.79,19.65,91.73,73.7,74,96.66,1,8.51,Fire Emergency,2,High-Priority Emergency
+43.65,66.29,29.94,58.0,112.0,62,57.16,0,7.61,Critical Gas Leak,2,High-Priority Emergency
+22.85,30.88,13.3,35.12,78.15,37,49.14,0,3.31,Safe / Normal Activity,0,Safe
+30.68,8.58,8.93,40.96,58.32,18,47.53,0,0.52,Safe / Normal Activity,0,Safe
+43.03,29.88,12.13,34.19,93.15,52,53.7,0,3.97,Minor Smoke,1,Normal Alert
+55.27,67.96,26.42,77.29,101.66,48,84.0,1,15.47,Severe Heat Emergency,2,High-Priority Emergency
+28.02,21.66,4.36,22.1,60.94,11,46.77,0,5.13,Safe / Normal Activity,0,Safe
+30.96,22.39,0.0,11.7,79.06,72,61.89,0,3.29,Safe / Normal Activity,0,Safe
+22.76,25.95,1.6,6.26,44.44,34,36.85,0,2.48,Safe / Normal Activity,0,Safe
+21.37,9.29,3.52,3.73,54.45,9,49.55,0,0.56,Safe / Normal Activity,0,Safe
+32.92,71.41,5.13,55.96,75.58,57,65.5,0,5.78,Possible Gas Issue,1,Normal Alert
+24.84,16.67,6.33,20.81,43.85,37,59.33,0,2.05,Safe / Normal Activity,0,Safe
+33.42,17.18,0.0,32.92,68.65,11,62.89,0,6.82,Minor Smoke,1,Normal Alert
+22.12,50.88,13.02,55.91,103.04,22,0.0,0,5.97,Unusual Heat,1,Normal Alert
+35.19,16.12,2.06,39.55,55.31,46,49.95,0,2.98,Crowd Disturbance,1,Normal Alert
+27.21,18.02,6.72,21.06,47.57,13,30.11,0,0.48,Safe / Normal Activity,0,Safe
+24.91,16.98,4.79,35.96,56.99,19,54.29,0,4.61,Safe / Normal Activity,0,Safe
+34.04,37.11,12.33,50.09,61.29,54,63.55,0,1.75,Minor Smoke,1,Normal Alert
+35.44,3.92,7.93,35.17,78.3,71,71.58,0,6.35,Minor Smoke,1,Normal Alert
+36.29,8.68,2.81,30.69,60.95,25,33.03,0,4.93,Safe / Normal Activity,0,Safe
+36.9,78.41,31.81,32.52,73.05,34,86.29,0,7.03,Heavy Smoke,2,High-Priority Emergency
+19.71,39.26,6.28,28.49,53.97,14,76.25,0,2.92,Safe / Normal Activity,0,Safe
+26.52,30.71,7.53,26.29,74.53,0,52.06,0,1.54,Crowd Disturbance,1,Normal Alert
+24.03,13.63,3.63,20.94,78.01,52,52.91,0,5.07,Safe / Normal Activity,0,Safe
+28.24,31.7,9.17,23.87,65.55,0,43.84,0,0.2,Safe / Normal Activity,0,Safe
+27.96,4.86,5.97,23.8,63.38,11,55.97,0,3.16,Safe / Normal Activity,0,Safe
+21.02,14.22,10.39,34.61,50.64,15,18.23,0,0.4,Safe / Normal Activity,0,Safe
+26.31,22.33,2.86,20.82,58.13,35,25.77,0,1.23,Safe / Normal Activity,0,Safe
+21.31,21.29,5.46,22.71,77.57,38,5.08,0,2.84,Safe / Normal Activity,0,Safe
+24.69,19.28,0.0,41.01,67.69,12,26.29,0,2.03,Safe / Normal Activity,0,Safe
+31.62,14.15,17.44,73.81,73.59,31,68.57,0,2.2,Possible Gas Issue,1,Normal Alert
+23.74,13.04,6.99,22.12,63.73,4,51.3,0,6.33,Safe / Normal Activity,0,Safe
+32.29,43.82,31.8,51.08,72.99,19,92.62,0,5.83,Possible Gas Issue,1,Normal Alert
+33.67,12.37,21.4,41.17,55.77,60,47.91,1,6.82,Unusual Heat,1,Normal Alert
+29.37,0.0,8.78,20.69,56.72,21,5.8,0,0.45,Safe / Normal Activity,0,Safe
+25.57,17.56,10.3,11.35,79.87,33,29.41,0,0.33,Safe / Normal Activity,0,Safe
+36.9,24.73,20.4,32.73,60.49,41,43.91,0,7.17,Crowd Disturbance,1,Normal Alert
+35.85,41.69,0.15,55.23,76.4,53,72.33,0,7.28,Possible Gas Issue,1,Normal Alert
+25.54,18.47,4.76,28.0,56.11,42,78.35,0,4.81,Safe / Normal Activity,0,Safe
+24.23,12.42,9.75,47.87,71.03,7,84.34,0,7.87,Possible Gas Issue,1,Normal Alert
+28.13,7.57,6.29,49.37,56.42,17,60.15,0,1.23,Safe / Normal Activity,0,Safe
+25.69,10.98,6.28,36.35,50.55,35,40.03,0,2.98,Safe / Normal Activity,0,Safe
+34.32,48.34,9.64,9.3,70.39,32,23.97,0,0.2,Possible Gas Issue,1,Normal Alert
+25.26,18.44,6.39,16.66,59.89,13,38.22,0,1.15,Safe / Normal Activity,0,Safe
+36.87,42.71,10.84,97.84,71.89,32,49.71,0,6.45,Unusual Heat,1,Normal Alert
+24.16,10.62,2.06,0.0,54.98,32,41.94,0,3.63,Safe / Normal Activity,0,Safe
+38.67,71.89,11.32,48.32,73.83,65,59.06,0,6.21,Unusual Heat,1,Normal Alert
+22.92,21.33,7.66,19.54,68.36,4,41.26,0,6.79,Safe / Normal Activity,0,Safe
+27.78,10.04,0.49,38.97,56.45,13,44.73,0,3.45,Safe / Normal Activity,0,Safe
+27.1,17.59,6.93,26.37,66.52,35,39.13,0,2.28,Safe / Normal Activity,0,Safe
+30.77,0.0,0.0,33.94,80.76,7,40.01,0,2.11,Safe / Normal Activity,0,Safe
+37.14,14.73,4.25,40.67,71.82,17,76.37,0,3.79,Unusual Heat,1,Normal Alert
+26.36,24.37,2.27,3.83,56.97,23,13.18,0,2.77,Safe / Normal Activity,0,Safe
+23.21,1.47,9.86,13.79,75.95,22,43.9,0,0.2,Safe / Normal Activity,0,Safe
+21.32,14.74,7.46,0.0,60.3,9,42.69,0,3.62,Safe / Normal Activity,0,Safe
+32.33,20.59,9.44,17.45,97.7,7,27.44,0,3.63,Safe / Normal Activity,0,Safe
+38.41,50.16,0.0,80.38,70.94,59,14.26,0,3.45,Crowd Disturbance,1,Normal Alert
+29.86,19.17,7.46,8.23,60.26,20,47.91,0,2.73,Safe / Normal Activity,0,Safe
+34.96,66.26,58.94,113.15,34.46,50,93.64,1,5.83,Heavy Smoke,2,High-Priority Emergency
+29.76,4.52,10.75,21.27,48.84,35,7.1,0,1.64,Safe / Normal Activity,0,Safe
+50.01,25.67,0.0,34.78,80.83,51,100.0,0,5.25,Minor Smoke,1,Normal Alert
+22.54,32.24,4.53,13.44,55.58,7,28.7,0,3.6,Safe / Normal Activity,0,Safe
+25.06,3.33,0.0,24.72,61.94,15,28.65,0,4.59,Safe / Normal Activity,0,Safe
+29.54,39.6,18.71,30.7,73.77,36,30.15,0,4.88,Minor Smoke,1,Normal Alert
+35.94,64.21,42.96,120.0,111.04,22,84.02,0,8.21,Fire Emergency,2,High-Priority Emergency
+29.59,7.16,9.59,62.17,78.32,44,63.76,0,6.07,Possible Gas Issue,1,Normal Alert
+27.41,33.43,6.57,22.55,62.34,19,29.29,0,1.74,Safe / Normal Activity,0,Safe
+26.27,8.09,6.43,29.59,58.25,0,49.81,0,1.01,Safe / Normal Activity,0,Safe
+40.41,12.83,19.32,45.8,39.97,40,50.06,0,3.03,Possible Gas Issue,1,Normal Alert
+26.36,11.15,0.0,38.54,57.82,13,15.43,0,0.55,Safe / Normal Activity,0,Safe
+35.94,27.49,8.32,23.83,64.7,37,64.18,0,4.58,Minor Smoke,1,Normal Alert
